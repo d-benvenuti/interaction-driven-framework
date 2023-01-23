@@ -1,5 +1,7 @@
 # Interaction-Driven framework
 -------------------------------------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------------------------------------
 Inside the ./generalization folder there is the Statechart Generator software component.
 
 In order to build and run it in your machine, you must have already installed and configured:
@@ -10,6 +12,8 @@ In order to build and run it in your machine, you must have already installed an
     is-same-origin node module v0.0.7
 
 Then you can open a terminal inside that folder and run the main.js file with NodeJS. You can specify the link to the visualization inside the ./generalization/material/system_url.txt configuration file, while the list of excluded events can be customized inside the ./generalization/material/excluded_events.txt configuration file.
+-------------------------------------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------------------------------------
 -------------------------------------------------------------------------------------------------------------------------------------------------
 Inside the ./validation folder there are the Path Generator and Path Simulator software components.
 
