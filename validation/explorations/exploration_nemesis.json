@@ -1,0 +1,5410 @@
+[
+    [
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/div[2]/div[1]/input[1]",
+            "css": "#cancdis",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                61,
+                2
+            ],
+            "leadsToState": 0
+        }
+    ],
+    [
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/input[1]",
+            "css": "#list-area input",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                45,
+                14
+            ],
+            "leadsToState": 0
+        }
+    ],
+    [
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/div[1]/input[1]",
+            "css": "#all-only",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "change",
+            "info": null,
+            "leadsToState": 0
+        }
+    ],
+    [
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/div[1]/input[1]",
+            "css": "#all-only",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": null,
+            "leadsToState": 0
+        }
+    ],
+    [
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[2]/*[name()='svg'][1]/*[name()='rect']",
+            "css": "#svgM rect.legendSquare",
+            "startingPath": 1,
+            "siblings": 1,
+            "event": "click",
+            "info": [
+                19,
+                20
+            ],
+            "leadsToState": 0
+        }
+    ],
+    [
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[2]/*[name()='svg'][1]/*[name()='g'][1]/*[name()='rect']",
+            "css": "#131-125",
+            "startingPath": 1,
+            "siblings": 4925,
+            "event": "mouseover",
+            "info": null,
+            "leadsToState": 1
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[2]/*[name()='svg'][1]/*[name()='g'][1]/*[name()='rect']",
+            "css": "#131-125",
+            "startingPath": 1,
+            "siblings": 4925,
+            "event": "mouseout",
+            "info": null,
+            "leadsToState": 0
+        }
+    ],
+    [
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[3]/*[name()='svg'][1]/*[name()='g'][1]/*[name()='circle']",
+            "css": "#svgS g circle.dot",
+            "startingPath": 1,
+            "siblings": 204,
+            "event": "mouseover",
+            "info": null,
+            "leadsToState": 2
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[3]/*[name()='svg'][1]/*[name()='g'][1]/*[name()='circle']",
+            "css": "#svgS g circle.dot",
+            "startingPath": 1,
+            "siblings": 204,
+            "event": "click",
+            "info": null,
+            "leadsToState": 2
+        }
+    ],
+    [
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[3]/*[name()='svg'][1]/*[name()='g'][1]/*[name()='circle']",
+            "css": "#svgS g circle.dot",
+            "startingPath": 1,
+            "siblings": 204,
+            "event": "mouseover",
+            "info": null,
+            "leadsToState": 2
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[3]/*[name()='svg'][1]/*[name()='g'][1]/*[name()='circle']",
+            "css": "#svgS g circle.dot",
+            "startingPath": 1,
+            "siblings": 204,
+            "event": "mouseout",
+            "info": null,
+            "leadsToState": 0
+        }
+    ],
+    [
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/input[2]",
+            "css": "#list-area input",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                5,
+                13
+            ],
+            "leadsToState": 3
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/input[2]",
+            "css": "#list-area input",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                81,
+                18
+            ],
+            "leadsToState": 3
+        }
+    ],
+    [
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/input[2]",
+            "css": "#list-area input",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                53,
+                9
+            ],
+            "leadsToState": 3
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/div[1]/input[1]",
+            "css": "#all-only",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "change",
+            "info": null,
+            "leadsToState": 3
+        }
+    ],
+    [
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/input[2]",
+            "css": "#list-area input",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                52,
+                20
+            ],
+            "leadsToState": 3
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/div[1]/input[1]",
+            "css": "#all-only",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": null,
+            "leadsToState": 3
+        }
+    ],
+    [
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/input[2]",
+            "css": "#list-area input",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                17,
+                6
+            ],
+            "leadsToState": 3
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/input[1]",
+            "css": "#list-area input",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                40,
+                14
+            ],
+            "leadsToState": 0
+        }
+    ],
+    [
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/input[2]",
+            "css": "#list-area input",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                32,
+                2
+            ],
+            "leadsToState": 3
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/table[1]/tbody[1]/tr[1]/td[1]",
+            "css": "#list-area table tbody tr td.atd",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "mouseover",
+            "info": null,
+            "leadsToState": 4
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/table[1]/tbody[1]/tr[1]/td[1]",
+            "css": "#list-area table tbody tr td.atd",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                58,
+                10
+            ],
+            "leadsToState": 4
+        }
+    ],
+    [
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/input[2]",
+            "css": "#list-area input",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                73,
+                18
+            ],
+            "leadsToState": 3
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/table[1]/tbody[1]/tr[1]/td[1]",
+            "css": "#list-area table tbody tr td.atd",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "mouseover",
+            "info": null,
+            "leadsToState": 4
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/table[1]/tbody[1]/tr[1]/td[1]",
+            "css": "#list-area table tbody tr td.atd",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "mouseout",
+            "info": null,
+            "leadsToState": 3
+        }
+    ],
+    [
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/input[2]",
+            "css": "#list-area input",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                60,
+                2
+            ],
+            "leadsToState": 3
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/table[1]/tbody[1]/tr[1]/td[1]",
+            "css": "#list-area table tbody tr td.atd",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "mouseover",
+            "info": null,
+            "leadsToState": 4
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/table[1]/tbody[1]/tr[1]/td[1]/input[1]",
+            "css": "#breast neoplasms ",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": null,
+            "leadsToState": 5
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/table[1]/tbody[1]/tr[1]/td[1]",
+            "css": "#list-area table tbody tr td.atd",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                113,
+                4
+            ],
+            "leadsToState": 5
+        }
+    ],
+    [
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/input[2]",
+            "css": "#list-area input",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                2,
+                15
+            ],
+            "leadsToState": 3
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/table[1]/tbody[1]/tr[1]/td[1]",
+            "css": "#list-area table tbody tr td.atd",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "mouseover",
+            "info": null,
+            "leadsToState": 4
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/table[1]/tbody[1]/tr[1]/td[1]/input[1]",
+            "css": "#breast neoplasms ",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": null,
+            "leadsToState": 5
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/table[1]/tbody[1]/tr[1]/td[1]",
+            "css": "#list-area table tbody tr td.atd",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "mouseout",
+            "info": null,
+            "leadsToState": 0
+        }
+    ],
+    [
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/input[2]",
+            "css": "#list-area input",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                50,
+                12
+            ],
+            "leadsToState": 3
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/table[1]/tbody[1]/tr[1]/td[1]",
+            "css": "#list-area table tbody tr td.atd",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "mouseover",
+            "info": null,
+            "leadsToState": 4
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/table[1]/tbody[1]/tr[1]/td[1]/input[1]",
+            "css": "#breast neoplasms ",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": null,
+            "leadsToState": 5
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/table[1]/tbody[1]/tr[1]/td[1]/input[1]",
+            "css": "#breast neoplasms ",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": null,
+            "leadsToState": 4
+        }
+    ],
+    [
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/input[2]",
+            "css": "#list-area input",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                81,
+                7
+            ],
+            "leadsToState": 3
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/table[1]/tbody[1]/tr[1]/td[1]",
+            "css": "#list-area table tbody tr td.atd",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "mouseover",
+            "info": null,
+            "leadsToState": 4
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/table[1]/tbody[1]/tr[1]/td[1]/input[1]",
+            "css": "#breast neoplasms ",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": null,
+            "leadsToState": 5
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/table[1]/tbody[1]/tr[1]/td[1]/input[1]",
+            "css": "#breast neoplasms ",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "change",
+            "info": null,
+            "leadsToState": 4
+        }
+    ],
+    [
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/input[2]",
+            "css": "#list-area input",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                64,
+                15
+            ],
+            "leadsToState": 3
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/table[1]/tbody[1]/tr[1]/td[1]",
+            "css": "#list-area table tbody tr td.atd",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "mouseover",
+            "info": null,
+            "leadsToState": 4
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/table[1]/tbody[1]/tr[1]/td[1]/input[1]",
+            "css": "#breast neoplasms ",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "change",
+            "info": null,
+            "leadsToState": 5
+        }
+    ],
+    [
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/input[2]",
+            "css": "#list-area input",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                5,
+                2
+            ],
+            "leadsToState": 3
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/table[1]/tbody[1]/tr[2]/td[1]",
+            "css": "#list-area table tbody tr td.atd",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "mouseover",
+            "info": null,
+            "leadsToState": 6
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/table[1]/tbody[1]/tr[2]/td[1]",
+            "css": "#list-area table tbody tr td.atd",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                41,
+                10
+            ],
+            "leadsToState": 6
+        }
+    ],
+    [
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/input[2]",
+            "css": "#list-area input",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                1,
+                13
+            ],
+            "leadsToState": 3
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/table[1]/tbody[1]/tr[2]/td[1]",
+            "css": "#list-area table tbody tr td.atd",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "mouseover",
+            "info": null,
+            "leadsToState": 6
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/table[1]/tbody[1]/tr[2]/td[1]",
+            "css": "#list-area table tbody tr td.atd",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "mouseout",
+            "info": null,
+            "leadsToState": 3
+        }
+    ],
+    [
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/input[2]",
+            "css": "#list-area input",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                55,
+                2
+            ],
+            "leadsToState": 3
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/table[1]/tbody[1]/tr[2]/td[1]",
+            "css": "#list-area table tbody tr td.atd",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "mouseover",
+            "info": null,
+            "leadsToState": 6
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/table[1]/tbody[1]/tr[2]/td[1]/input[1]",
+            "css": "#carcinoma renal cell ",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": null,
+            "leadsToState": 7
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/table[1]/tbody[1]/tr[2]/td[1]",
+            "css": "#list-area table tbody tr td.atd",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                80,
+                5
+            ],
+            "leadsToState": 7
+        }
+    ],
+    [
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/input[2]",
+            "css": "#list-area input",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                37,
+                12
+            ],
+            "leadsToState": 3
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/table[1]/tbody[1]/tr[2]/td[1]",
+            "css": "#list-area table tbody tr td.atd",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "mouseover",
+            "info": null,
+            "leadsToState": 6
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/table[1]/tbody[1]/tr[2]/td[1]/input[1]",
+            "css": "#carcinoma renal cell ",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": null,
+            "leadsToState": 7
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/table[1]/tbody[1]/tr[2]/td[1]",
+            "css": "#list-area table tbody tr td.atd",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "mouseout",
+            "info": null,
+            "leadsToState": 0
+        }
+    ],
+    [
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/input[2]",
+            "css": "#list-area input",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                8,
+                10
+            ],
+            "leadsToState": 3
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/table[1]/tbody[1]/tr[2]/td[1]",
+            "css": "#list-area table tbody tr td.atd",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "mouseover",
+            "info": null,
+            "leadsToState": 6
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/table[1]/tbody[1]/tr[2]/td[1]/input[1]",
+            "css": "#carcinoma renal cell ",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": null,
+            "leadsToState": 7
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/table[1]/tbody[1]/tr[2]/td[1]/input[1]",
+            "css": "#carcinoma renal cell ",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": null,
+            "leadsToState": 6
+        }
+    ],
+    [
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/input[2]",
+            "css": "#list-area input",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                17,
+                7
+            ],
+            "leadsToState": 3
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/table[1]/tbody[1]/tr[2]/td[1]",
+            "css": "#list-area table tbody tr td.atd",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "mouseover",
+            "info": null,
+            "leadsToState": 6
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/table[1]/tbody[1]/tr[2]/td[1]/input[1]",
+            "css": "#carcinoma renal cell ",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": null,
+            "leadsToState": 7
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/table[1]/tbody[1]/tr[2]/td[1]/input[1]",
+            "css": "#carcinoma renal cell ",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "change",
+            "info": null,
+            "leadsToState": 6
+        }
+    ],
+    [
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/input[2]",
+            "css": "#list-area input",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                39,
+                3
+            ],
+            "leadsToState": 3
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/table[1]/tbody[1]/tr[2]/td[1]",
+            "css": "#list-area table tbody tr td.atd",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "mouseover",
+            "info": null,
+            "leadsToState": 6
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/table[1]/tbody[1]/tr[2]/td[1]/input[1]",
+            "css": "#carcinoma renal cell ",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "change",
+            "info": null,
+            "leadsToState": 7
+        }
+    ],
+    [
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/input[2]",
+            "css": "#list-area input",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                71,
+                13
+            ],
+            "leadsToState": 3
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/table[1]/tbody[1]/tr[3]/td[1]",
+            "css": "#list-area table tbody tr td.atd",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "mouseover",
+            "info": null,
+            "leadsToState": 8
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/table[1]/tbody[1]/tr[3]/td[1]",
+            "css": "#list-area table tbody tr td.atd",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                31,
+                14
+            ],
+            "leadsToState": 8
+        }
+    ],
+    [
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/input[2]",
+            "css": "#list-area input",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                7,
+                11
+            ],
+            "leadsToState": 3
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/table[1]/tbody[1]/tr[3]/td[1]",
+            "css": "#list-area table tbody tr td.atd",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "mouseover",
+            "info": null,
+            "leadsToState": 8
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/table[1]/tbody[1]/tr[3]/td[1]",
+            "css": "#list-area table tbody tr td.atd",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "mouseout",
+            "info": null,
+            "leadsToState": 3
+        }
+    ],
+    [
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/input[2]",
+            "css": "#list-area input",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                76,
+                21
+            ],
+            "leadsToState": 3
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/table[1]/tbody[1]/tr[3]/td[1]",
+            "css": "#list-area table tbody tr td.atd",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "mouseover",
+            "info": null,
+            "leadsToState": 8
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/table[1]/tbody[1]/tr[3]/td[1]/input[1]",
+            "css": "#colorectal neoplasms ",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": null,
+            "leadsToState": 9
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/table[1]/tbody[1]/tr[3]/td[1]",
+            "css": "#list-area table tbody tr td.atd",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                106,
+                10
+            ],
+            "leadsToState": 9
+        }
+    ],
+    [
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/input[2]",
+            "css": "#list-area input",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                56,
+                1
+            ],
+            "leadsToState": 3
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/table[1]/tbody[1]/tr[3]/td[1]",
+            "css": "#list-area table tbody tr td.atd",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "mouseover",
+            "info": null,
+            "leadsToState": 8
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/table[1]/tbody[1]/tr[3]/td[1]/input[1]",
+            "css": "#colorectal neoplasms ",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": null,
+            "leadsToState": 9
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/table[1]/tbody[1]/tr[3]/td[1]",
+            "css": "#list-area table tbody tr td.atd",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "mouseout",
+            "info": null,
+            "leadsToState": 0
+        }
+    ],
+    [
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/input[2]",
+            "css": "#list-area input",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                85,
+                18
+            ],
+            "leadsToState": 3
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/table[1]/tbody[1]/tr[3]/td[1]",
+            "css": "#list-area table tbody tr td.atd",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "mouseover",
+            "info": null,
+            "leadsToState": 8
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/table[1]/tbody[1]/tr[3]/td[1]/input[1]",
+            "css": "#colorectal neoplasms ",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": null,
+            "leadsToState": 9
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/table[1]/tbody[1]/tr[3]/td[1]/input[1]",
+            "css": "#colorectal neoplasms ",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": null,
+            "leadsToState": 8
+        }
+    ],
+    [
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/input[2]",
+            "css": "#list-area input",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                19,
+                13
+            ],
+            "leadsToState": 3
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/table[1]/tbody[1]/tr[3]/td[1]",
+            "css": "#list-area table tbody tr td.atd",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "mouseover",
+            "info": null,
+            "leadsToState": 8
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/table[1]/tbody[1]/tr[3]/td[1]/input[1]",
+            "css": "#colorectal neoplasms ",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": null,
+            "leadsToState": 9
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/table[1]/tbody[1]/tr[3]/td[1]/input[1]",
+            "css": "#colorectal neoplasms ",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "change",
+            "info": null,
+            "leadsToState": 8
+        }
+    ],
+    [
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/input[2]",
+            "css": "#list-area input",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                6,
+                3
+            ],
+            "leadsToState": 3
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/table[1]/tbody[1]/tr[3]/td[1]",
+            "css": "#list-area table tbody tr td.atd",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "mouseover",
+            "info": null,
+            "leadsToState": 8
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/table[1]/tbody[1]/tr[3]/td[1]/input[1]",
+            "css": "#colorectal neoplasms ",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "change",
+            "info": null,
+            "leadsToState": 9
+        }
+    ],
+    [
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/input[2]",
+            "css": "#list-area input",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                11,
+                8
+            ],
+            "leadsToState": 3
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/table[1]/tbody[1]/tr[4]/td[1]",
+            "css": "#list-area table tbody tr td.atd",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "mouseover",
+            "info": null,
+            "leadsToState": 10
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/table[1]/tbody[1]/tr[4]/td[1]",
+            "css": "#list-area table tbody tr td.atd",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                14,
+                28
+            ],
+            "leadsToState": 10
+        }
+    ],
+    [
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/input[2]",
+            "css": "#list-area input",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                5,
+                20
+            ],
+            "leadsToState": 3
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/table[1]/tbody[1]/tr[4]/td[1]",
+            "css": "#list-area table tbody tr td.atd",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "mouseover",
+            "info": null,
+            "leadsToState": 10
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/table[1]/tbody[1]/tr[4]/td[1]",
+            "css": "#list-area table tbody tr td.atd",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "mouseout",
+            "info": null,
+            "leadsToState": 3
+        }
+    ],
+    [
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/input[2]",
+            "css": "#list-area input",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                26,
+                14
+            ],
+            "leadsToState": 3
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/table[1]/tbody[1]/tr[4]/td[1]",
+            "css": "#list-area table tbody tr td.atd",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "mouseover",
+            "info": null,
+            "leadsToState": 10
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/table[1]/tbody[1]/tr[4]/td[1]/input[1]",
+            "css": "#head and neck neoplasms ",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": null,
+            "leadsToState": 11
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/table[1]/tbody[1]/tr[4]/td[1]",
+            "css": "#list-area table tbody tr td.atd",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                81,
+                19
+            ],
+            "leadsToState": 11
+        }
+    ],
+    [
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/input[2]",
+            "css": "#list-area input",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                57,
+                14
+            ],
+            "leadsToState": 3
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/table[1]/tbody[1]/tr[4]/td[1]",
+            "css": "#list-area table tbody tr td.atd",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "mouseover",
+            "info": null,
+            "leadsToState": 10
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/table[1]/tbody[1]/tr[4]/td[1]/input[1]",
+            "css": "#head and neck neoplasms ",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": null,
+            "leadsToState": 11
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/table[1]/tbody[1]/tr[4]/td[1]",
+            "css": "#list-area table tbody tr td.atd",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "mouseout",
+            "info": null,
+            "leadsToState": 0
+        }
+    ],
+    [
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/input[2]",
+            "css": "#list-area input",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                16,
+                6
+            ],
+            "leadsToState": 3
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/table[1]/tbody[1]/tr[4]/td[1]",
+            "css": "#list-area table tbody tr td.atd",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "mouseover",
+            "info": null,
+            "leadsToState": 10
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/table[1]/tbody[1]/tr[4]/td[1]/input[1]",
+            "css": "#head and neck neoplasms ",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": null,
+            "leadsToState": 11
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/table[1]/tbody[1]/tr[4]/td[1]/input[1]",
+            "css": "#head and neck neoplasms ",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": null,
+            "leadsToState": 10
+        }
+    ],
+    [
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/input[2]",
+            "css": "#list-area input",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                84,
+                7
+            ],
+            "leadsToState": 3
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/table[1]/tbody[1]/tr[4]/td[1]",
+            "css": "#list-area table tbody tr td.atd",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "mouseover",
+            "info": null,
+            "leadsToState": 10
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/table[1]/tbody[1]/tr[4]/td[1]/input[1]",
+            "css": "#head and neck neoplasms ",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": null,
+            "leadsToState": 11
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/table[1]/tbody[1]/tr[4]/td[1]/input[1]",
+            "css": "#head and neck neoplasms ",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "change",
+            "info": null,
+            "leadsToState": 10
+        }
+    ],
+    [
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/input[2]",
+            "css": "#list-area input",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                26,
+                18
+            ],
+            "leadsToState": 3
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/table[1]/tbody[1]/tr[4]/td[1]",
+            "css": "#list-area table tbody tr td.atd",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "mouseover",
+            "info": null,
+            "leadsToState": 10
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/table[1]/tbody[1]/tr[4]/td[1]/input[1]",
+            "css": "#head and neck neoplasms ",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "change",
+            "info": null,
+            "leadsToState": 11
+        }
+    ],
+    [
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/input[2]",
+            "css": "#list-area input",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                55,
+                2
+            ],
+            "leadsToState": 3
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/table[1]/tbody[1]/tr[5]/td[1]",
+            "css": "#list-area table tbody tr td.atd",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "mouseover",
+            "info": null,
+            "leadsToState": 12
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/table[1]/tbody[1]/tr[5]/td[1]",
+            "css": "#list-area table tbody tr td.atd",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                10,
+                3
+            ],
+            "leadsToState": 12
+        }
+    ],
+    [
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/input[2]",
+            "css": "#list-area input",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                52,
+                15
+            ],
+            "leadsToState": 3
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/table[1]/tbody[1]/tr[5]/td[1]",
+            "css": "#list-area table tbody tr td.atd",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "mouseover",
+            "info": null,
+            "leadsToState": 12
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/table[1]/tbody[1]/tr[5]/td[1]",
+            "css": "#list-area table tbody tr td.atd",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "mouseout",
+            "info": null,
+            "leadsToState": 3
+        }
+    ],
+    [
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/input[2]",
+            "css": "#list-area input",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                59,
+                18
+            ],
+            "leadsToState": 3
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/table[1]/tbody[1]/tr[5]/td[1]",
+            "css": "#list-area table tbody tr td.atd",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "mouseover",
+            "info": null,
+            "leadsToState": 12
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/table[1]/tbody[1]/tr[5]/td[1]/input[1]",
+            "css": "#leukemia b-cell ",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": null,
+            "leadsToState": 13
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/table[1]/tbody[1]/tr[5]/td[1]",
+            "css": "#list-area table tbody tr td.atd",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                17,
+                4
+            ],
+            "leadsToState": 13
+        }
+    ],
+    [
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/input[2]",
+            "css": "#list-area input",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                15,
+                10
+            ],
+            "leadsToState": 3
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/table[1]/tbody[1]/tr[5]/td[1]",
+            "css": "#list-area table tbody tr td.atd",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "mouseover",
+            "info": null,
+            "leadsToState": 12
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/table[1]/tbody[1]/tr[5]/td[1]/input[1]",
+            "css": "#leukemia b-cell ",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": null,
+            "leadsToState": 13
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/table[1]/tbody[1]/tr[5]/td[1]",
+            "css": "#list-area table tbody tr td.atd",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "mouseout",
+            "info": null,
+            "leadsToState": 0
+        }
+    ],
+    [
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/input[2]",
+            "css": "#list-area input",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                24,
+                11
+            ],
+            "leadsToState": 3
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/table[1]/tbody[1]/tr[5]/td[1]",
+            "css": "#list-area table tbody tr td.atd",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "mouseover",
+            "info": null,
+            "leadsToState": 12
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/table[1]/tbody[1]/tr[5]/td[1]/input[1]",
+            "css": "#leukemia b-cell ",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": null,
+            "leadsToState": 13
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/table[1]/tbody[1]/tr[5]/td[1]/input[1]",
+            "css": "#leukemia b-cell ",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": null,
+            "leadsToState": 12
+        }
+    ],
+    [
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/input[2]",
+            "css": "#list-area input",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                10,
+                4
+            ],
+            "leadsToState": 3
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/table[1]/tbody[1]/tr[5]/td[1]",
+            "css": "#list-area table tbody tr td.atd",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "mouseover",
+            "info": null,
+            "leadsToState": 12
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/table[1]/tbody[1]/tr[5]/td[1]/input[1]",
+            "css": "#leukemia b-cell ",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": null,
+            "leadsToState": 13
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/table[1]/tbody[1]/tr[5]/td[1]/input[1]",
+            "css": "#leukemia b-cell ",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "change",
+            "info": null,
+            "leadsToState": 12
+        }
+    ],
+    [
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/input[2]",
+            "css": "#list-area input",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                30,
+                1
+            ],
+            "leadsToState": 3
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/table[1]/tbody[1]/tr[5]/td[1]",
+            "css": "#list-area table tbody tr td.atd",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "mouseover",
+            "info": null,
+            "leadsToState": 12
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/table[1]/tbody[1]/tr[5]/td[1]/input[1]",
+            "css": "#leukemia b-cell ",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "change",
+            "info": null,
+            "leadsToState": 13
+        }
+    ],
+    [
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/input[2]",
+            "css": "#list-area input",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                16,
+                2
+            ],
+            "leadsToState": 3
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/table[1]/tbody[1]/tr[6]/td[1]",
+            "css": "#list-area table tbody tr td.atd",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "mouseover",
+            "info": null,
+            "leadsToState": 14
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/table[1]/tbody[1]/tr[6]/td[1]",
+            "css": "#list-area table tbody tr td.atd",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                74,
+                9
+            ],
+            "leadsToState": 14
+        }
+    ],
+    [
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/input[2]",
+            "css": "#list-area input",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                33,
+                21
+            ],
+            "leadsToState": 3
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/table[1]/tbody[1]/tr[6]/td[1]",
+            "css": "#list-area table tbody tr td.atd",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "mouseover",
+            "info": null,
+            "leadsToState": 14
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/table[1]/tbody[1]/tr[6]/td[1]",
+            "css": "#list-area table tbody tr td.atd",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "mouseout",
+            "info": null,
+            "leadsToState": 3
+        }
+    ],
+    [
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/input[2]",
+            "css": "#list-area input",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                76,
+                10
+            ],
+            "leadsToState": 3
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/table[1]/tbody[1]/tr[6]/td[1]",
+            "css": "#list-area table tbody tr td.atd",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "mouseover",
+            "info": null,
+            "leadsToState": 14
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/table[1]/tbody[1]/tr[6]/td[1]/input[1]",
+            "css": "#leukemia myeloid ",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": null,
+            "leadsToState": 15
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/table[1]/tbody[1]/tr[6]/td[1]",
+            "css": "#list-area table tbody tr td.atd",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                102,
+                18
+            ],
+            "leadsToState": 15
+        }
+    ],
+    [
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/input[2]",
+            "css": "#list-area input",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                39,
+                15
+            ],
+            "leadsToState": 3
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/table[1]/tbody[1]/tr[6]/td[1]",
+            "css": "#list-area table tbody tr td.atd",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "mouseover",
+            "info": null,
+            "leadsToState": 14
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/table[1]/tbody[1]/tr[6]/td[1]/input[1]",
+            "css": "#leukemia myeloid ",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": null,
+            "leadsToState": 15
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/table[1]/tbody[1]/tr[6]/td[1]",
+            "css": "#list-area table tbody tr td.atd",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "mouseout",
+            "info": null,
+            "leadsToState": 0
+        }
+    ],
+    [
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/input[2]",
+            "css": "#list-area input",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                80,
+                21
+            ],
+            "leadsToState": 3
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/table[1]/tbody[1]/tr[6]/td[1]",
+            "css": "#list-area table tbody tr td.atd",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "mouseover",
+            "info": null,
+            "leadsToState": 14
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/table[1]/tbody[1]/tr[6]/td[1]/input[1]",
+            "css": "#leukemia myeloid ",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": null,
+            "leadsToState": 15
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/table[1]/tbody[1]/tr[6]/td[1]/input[1]",
+            "css": "#leukemia myeloid ",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": null,
+            "leadsToState": 14
+        }
+    ],
+    [
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/input[2]",
+            "css": "#list-area input",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                40,
+                10
+            ],
+            "leadsToState": 3
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/table[1]/tbody[1]/tr[6]/td[1]",
+            "css": "#list-area table tbody tr td.atd",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "mouseover",
+            "info": null,
+            "leadsToState": 14
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/table[1]/tbody[1]/tr[6]/td[1]/input[1]",
+            "css": "#leukemia myeloid ",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": null,
+            "leadsToState": 15
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/table[1]/tbody[1]/tr[6]/td[1]/input[1]",
+            "css": "#leukemia myeloid ",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "change",
+            "info": null,
+            "leadsToState": 14
+        }
+    ],
+    [
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/input[2]",
+            "css": "#list-area input",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                66,
+                5
+            ],
+            "leadsToState": 3
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/table[1]/tbody[1]/tr[6]/td[1]",
+            "css": "#list-area table tbody tr td.atd",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "mouseover",
+            "info": null,
+            "leadsToState": 14
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/table[1]/tbody[1]/tr[6]/td[1]/input[1]",
+            "css": "#leukemia myeloid ",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "change",
+            "info": null,
+            "leadsToState": 15
+        }
+    ],
+    [
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/input[2]",
+            "css": "#list-area input",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                3,
+                18
+            ],
+            "leadsToState": 3
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/table[1]/tbody[1]/tr[7]/td[1]",
+            "css": "#list-area table tbody tr td.atd",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "mouseover",
+            "info": null,
+            "leadsToState": 16
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/table[1]/tbody[1]/tr[7]/td[1]",
+            "css": "#list-area table tbody tr td.atd",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                109,
+                11
+            ],
+            "leadsToState": 16
+        }
+    ],
+    [
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/input[2]",
+            "css": "#list-area input",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                84,
+                14
+            ],
+            "leadsToState": 3
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/table[1]/tbody[1]/tr[7]/td[1]",
+            "css": "#list-area table tbody tr td.atd",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "mouseover",
+            "info": null,
+            "leadsToState": 16
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/table[1]/tbody[1]/tr[7]/td[1]",
+            "css": "#list-area table tbody tr td.atd",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "mouseout",
+            "info": null,
+            "leadsToState": 3
+        }
+    ],
+    [
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/input[2]",
+            "css": "#list-area input",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                10,
+                11
+            ],
+            "leadsToState": 3
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/table[1]/tbody[1]/tr[7]/td[1]",
+            "css": "#list-area table tbody tr td.atd",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "mouseover",
+            "info": null,
+            "leadsToState": 16
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/table[1]/tbody[1]/tr[7]/td[1]/input[1]",
+            "css": "#lymphoma ",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": null,
+            "leadsToState": 17
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/table[1]/tbody[1]/tr[7]/td[1]",
+            "css": "#list-area table tbody tr td.atd",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                59,
+                12
+            ],
+            "leadsToState": 17
+        }
+    ],
+    [
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/input[2]",
+            "css": "#list-area input",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                17,
+                8
+            ],
+            "leadsToState": 3
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/table[1]/tbody[1]/tr[7]/td[1]",
+            "css": "#list-area table tbody tr td.atd",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "mouseover",
+            "info": null,
+            "leadsToState": 16
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/table[1]/tbody[1]/tr[7]/td[1]/input[1]",
+            "css": "#lymphoma ",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": null,
+            "leadsToState": 17
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/table[1]/tbody[1]/tr[7]/td[1]",
+            "css": "#list-area table tbody tr td.atd",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "mouseout",
+            "info": null,
+            "leadsToState": 0
+        }
+    ],
+    [
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/input[2]",
+            "css": "#list-area input",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                31,
+                9
+            ],
+            "leadsToState": 3
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/table[1]/tbody[1]/tr[7]/td[1]",
+            "css": "#list-area table tbody tr td.atd",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "mouseover",
+            "info": null,
+            "leadsToState": 16
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/table[1]/tbody[1]/tr[7]/td[1]/input[1]",
+            "css": "#lymphoma ",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": null,
+            "leadsToState": 17
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/table[1]/tbody[1]/tr[7]/td[1]/input[1]",
+            "css": "#lymphoma ",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": null,
+            "leadsToState": 16
+        }
+    ],
+    [
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/input[2]",
+            "css": "#list-area input",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                81,
+                14
+            ],
+            "leadsToState": 3
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/table[1]/tbody[1]/tr[7]/td[1]",
+            "css": "#list-area table tbody tr td.atd",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "mouseover",
+            "info": null,
+            "leadsToState": 16
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/table[1]/tbody[1]/tr[7]/td[1]/input[1]",
+            "css": "#lymphoma ",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": null,
+            "leadsToState": 17
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/table[1]/tbody[1]/tr[7]/td[1]/input[1]",
+            "css": "#lymphoma ",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "change",
+            "info": null,
+            "leadsToState": 16
+        }
+    ],
+    [
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/input[2]",
+            "css": "#list-area input",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                83,
+                1
+            ],
+            "leadsToState": 3
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/table[1]/tbody[1]/tr[7]/td[1]",
+            "css": "#list-area table tbody tr td.atd",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "mouseover",
+            "info": null,
+            "leadsToState": 16
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/table[1]/tbody[1]/tr[7]/td[1]/input[1]",
+            "css": "#lymphoma ",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "change",
+            "info": null,
+            "leadsToState": 17
+        }
+    ],
+    [
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/input[2]",
+            "css": "#list-area input",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                73,
+                6
+            ],
+            "leadsToState": 3
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/div[2]/div[1]/input[1]",
+            "css": "#cancdis",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                68,
+                16
+            ],
+            "leadsToState": 0
+        }
+    ],
+    [
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/input[2]",
+            "css": "#list-area input",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                1,
+                21
+            ],
+            "leadsToState": 3
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/div[2]/input[1]",
+            "css": "#t5d1",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                64,
+                22
+            ],
+            "leadsToState": 18
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/div[2]/input[3]",
+            "css": "#t5s",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                31,
+                30
+            ],
+            "leadsToState": 18
+        }
+    ],
+    [
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/input[2]",
+            "css": "#list-area input",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                43,
+                7
+            ],
+            "leadsToState": 3
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/div[2]/input[1]",
+            "css": "#t5d1",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                5,
+                29
+            ],
+            "leadsToState": 18
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/div[2]/input[2]",
+            "css": "#t5d2",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                49,
+                33
+            ],
+            "leadsToState": 18
+        }
+    ],
+    [
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/input[2]",
+            "css": "#list-area input",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                29,
+                11
+            ],
+            "leadsToState": 3
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/div[2]/input[1]",
+            "css": "#t5d1",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                1,
+                22
+            ],
+            "leadsToState": 18
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/div[2]/input[1]",
+            "css": "#t5d1",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                12,
+                10
+            ],
+            "leadsToState": 18
+        }
+    ],
+    [
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/input[2]",
+            "css": "#list-area input",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                5,
+                10
+            ],
+            "leadsToState": 3
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/div[2]/input[1]",
+            "css": "#t5d1",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                10,
+                33
+            ],
+            "leadsToState": 18
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/input[1]",
+            "css": "#list-area input",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                43,
+                17
+            ],
+            "leadsToState": 18
+        }
+    ],
+    [
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/input[2]",
+            "css": "#list-area input",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                44,
+                4
+            ],
+            "leadsToState": 3
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/div[2]/input[1]",
+            "css": "#t5d1",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                43,
+                11
+            ],
+            "leadsToState": 18
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/div[1]/input[1]",
+            "css": "#all-only",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "change",
+            "info": null,
+            "leadsToState": 18
+        }
+    ],
+    [
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/input[2]",
+            "css": "#list-area input",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                57,
+                12
+            ],
+            "leadsToState": 3
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/div[2]/input[1]",
+            "css": "#t5d1",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                38,
+                6
+            ],
+            "leadsToState": 18
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/div[1]/input[1]",
+            "css": "#all-only",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": null,
+            "leadsToState": 18
+        }
+    ],
+    [
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/input[2]",
+            "css": "#list-area input",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                32,
+                3
+            ],
+            "leadsToState": 3
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/div[2]/input[1]",
+            "css": "#t5d1",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                61,
+                33
+            ],
+            "leadsToState": 18
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[2]/*[name()='svg'][1]/*[name()='rect']",
+            "css": "#svgM rect.legendSquare",
+            "startingPath": 1,
+            "siblings": 1,
+            "event": "click",
+            "info": [
+                11,
+                12
+            ],
+            "leadsToState": 18
+        }
+    ],
+    [
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/input[2]",
+            "css": "#list-area input",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                17,
+                21
+            ],
+            "leadsToState": 3
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/div[2]/input[1]",
+            "css": "#t5d1",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                5,
+                12
+            ],
+            "leadsToState": 18
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[2]/*[name()='svg'][1]/*[name()='g'][1]/*[name()='rect']",
+            "css": "#718-629",
+            "startingPath": 1,
+            "siblings": 767,
+            "event": "mouseover",
+            "info": null,
+            "leadsToState": 19
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[2]/*[name()='svg'][1]/*[name()='g'][1]/*[name()='rect']",
+            "css": "#718-629",
+            "startingPath": 1,
+            "siblings": 767,
+            "event": "mouseout",
+            "info": null,
+            "leadsToState": 18
+        }
+    ],
+    [
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/input[2]",
+            "css": "#list-area input",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                58,
+                2
+            ],
+            "leadsToState": 3
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/div[2]/input[1]",
+            "css": "#t5d1",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                24,
+                5
+            ],
+            "leadsToState": 18
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[3]/*[name()='svg'][1]/*[name()='g'][1]/*[name()='circle']",
+            "css": "#svgS g circle.dot",
+            "startingPath": 1,
+            "siblings": 79,
+            "event": "mouseover",
+            "info": null,
+            "leadsToState": 20
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[3]/*[name()='svg'][1]/*[name()='g'][1]/*[name()='circle']",
+            "css": "#svgS g circle.dot",
+            "startingPath": 1,
+            "siblings": 79,
+            "event": "click",
+            "info": null,
+            "leadsToState": 20
+        }
+    ],
+    [
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/input[2]",
+            "css": "#list-area input",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                38,
+                7
+            ],
+            "leadsToState": 3
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/div[2]/input[1]",
+            "css": "#t5d1",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                68,
+                5
+            ],
+            "leadsToState": 18
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[3]/*[name()='svg'][1]/*[name()='g'][1]/*[name()='circle']",
+            "css": "#svgS g circle.dot",
+            "startingPath": 1,
+            "siblings": 79,
+            "event": "mouseover",
+            "info": null,
+            "leadsToState": 20
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[3]/*[name()='svg'][1]/*[name()='g'][1]/*[name()='circle']",
+            "css": "#svgS g circle.dot",
+            "startingPath": 1,
+            "siblings": 79,
+            "event": "mouseout",
+            "info": null,
+            "leadsToState": 18
+        }
+    ],
+    [
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/input[2]",
+            "css": "#list-area input",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                48,
+                7
+            ],
+            "leadsToState": 3
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/div[2]/input[1]",
+            "css": "#t5d1",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                53,
+                5
+            ],
+            "leadsToState": 18
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/input[2]",
+            "css": "#list-area input",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                76,
+                4
+            ],
+            "leadsToState": 21
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/input[2]",
+            "css": "#list-area input",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                85,
+                7
+            ],
+            "leadsToState": 21
+        }
+    ],
+    [
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/input[2]",
+            "css": "#list-area input",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                47,
+                10
+            ],
+            "leadsToState": 3
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/div[2]/input[1]",
+            "css": "#t5d1",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                14,
+                16
+            ],
+            "leadsToState": 18
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/input[2]",
+            "css": "#list-area input",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                54,
+                14
+            ],
+            "leadsToState": 21
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/div[1]/input[1]",
+            "css": "#all-only",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "change",
+            "info": null,
+            "leadsToState": 21
+        }
+    ],
+    [
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/input[2]",
+            "css": "#list-area input",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                55,
+                7
+            ],
+            "leadsToState": 3
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/div[2]/input[1]",
+            "css": "#t5d1",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                28,
+                25
+            ],
+            "leadsToState": 18
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/input[2]",
+            "css": "#list-area input",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                28,
+                11
+            ],
+            "leadsToState": 21
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/div[1]/input[1]",
+            "css": "#all-only",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": null,
+            "leadsToState": 21
+        }
+    ],
+    [
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/input[2]",
+            "css": "#list-area input",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                30,
+                5
+            ],
+            "leadsToState": 3
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/div[2]/input[1]",
+            "css": "#t5d1",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                19,
+                2
+            ],
+            "leadsToState": 18
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/input[2]",
+            "css": "#list-area input",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                39,
+                17
+            ],
+            "leadsToState": 21
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/input[1]",
+            "css": "#list-area input",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                70,
+                17
+            ],
+            "leadsToState": 18
+        }
+    ],
+    [
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/input[2]",
+            "css": "#list-area input",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                26,
+                1
+            ],
+            "leadsToState": 3
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/div[2]/input[1]",
+            "css": "#t5d1",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                48,
+                2
+            ],
+            "leadsToState": 18
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/input[2]",
+            "css": "#list-area input",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                26,
+                19
+            ],
+            "leadsToState": 21
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/table[1]/tbody[1]/tr[1]/td[1]",
+            "css": "#list-area table tbody tr td.atd",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "mouseover",
+            "info": null,
+            "leadsToState": 22
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/table[1]/tbody[1]/tr[1]/td[1]",
+            "css": "#list-area table tbody tr td.atd",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                99,
+                4
+            ],
+            "leadsToState": 22
+        }
+    ],
+    [
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/input[2]",
+            "css": "#list-area input",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                10,
+                21
+            ],
+            "leadsToState": 3
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/div[2]/input[1]",
+            "css": "#t5d1",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                32,
+                8
+            ],
+            "leadsToState": 18
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/input[2]",
+            "css": "#list-area input",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                71,
+                3
+            ],
+            "leadsToState": 21
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/table[1]/tbody[1]/tr[1]/td[1]",
+            "css": "#list-area table tbody tr td.atd",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "mouseover",
+            "info": null,
+            "leadsToState": 22
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/table[1]/tbody[1]/tr[1]/td[1]",
+            "css": "#list-area table tbody tr td.atd",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "mouseout",
+            "info": null,
+            "leadsToState": 21
+        }
+    ],
+    [
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/input[2]",
+            "css": "#list-area input",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                1,
+                18
+            ],
+            "leadsToState": 3
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/div[2]/input[1]",
+            "css": "#t5d1",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                70,
+                16
+            ],
+            "leadsToState": 18
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/input[2]",
+            "css": "#list-area input",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                6,
+                1
+            ],
+            "leadsToState": 21
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/table[1]/tbody[1]/tr[1]/td[1]",
+            "css": "#list-area table tbody tr td.atd",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "mouseover",
+            "info": null,
+            "leadsToState": 22
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/table[1]/tbody[1]/tr[1]/td[1]/input[1]",
+            "css": "#anemia aplastic ",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": null,
+            "leadsToState": 23
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/table[1]/tbody[1]/tr[1]/td[1]",
+            "css": "#list-area table tbody tr td.atd",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                15,
+                16
+            ],
+            "leadsToState": 23
+        }
+    ],
+    [
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/input[2]",
+            "css": "#list-area input",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                62,
+                4
+            ],
+            "leadsToState": 3
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/div[2]/input[1]",
+            "css": "#t5d1",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                16,
+                33
+            ],
+            "leadsToState": 18
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/input[2]",
+            "css": "#list-area input",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                41,
+                19
+            ],
+            "leadsToState": 21
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/table[1]/tbody[1]/tr[1]/td[1]",
+            "css": "#list-area table tbody tr td.atd",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "mouseover",
+            "info": null,
+            "leadsToState": 22
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/table[1]/tbody[1]/tr[1]/td[1]/input[1]",
+            "css": "#anemia aplastic ",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": null,
+            "leadsToState": 23
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/table[1]/tbody[1]/tr[1]/td[1]",
+            "css": "#list-area table tbody tr td.atd",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "mouseout",
+            "info": null,
+            "leadsToState": 18
+        }
+    ],
+    [
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/input[2]",
+            "css": "#list-area input",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                17,
+                20
+            ],
+            "leadsToState": 3
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/div[2]/input[1]",
+            "css": "#t5d1",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                68,
+                32
+            ],
+            "leadsToState": 18
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/input[2]",
+            "css": "#list-area input",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                26,
+                15
+            ],
+            "leadsToState": 21
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/table[1]/tbody[1]/tr[1]/td[1]",
+            "css": "#list-area table tbody tr td.atd",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "mouseover",
+            "info": null,
+            "leadsToState": 22
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/table[1]/tbody[1]/tr[1]/td[1]/input[1]",
+            "css": "#anemia aplastic ",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": null,
+            "leadsToState": 23
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/table[1]/tbody[1]/tr[1]/td[1]/input[1]",
+            "css": "#anemia aplastic ",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": null,
+            "leadsToState": 22
+        }
+    ],
+    [
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/input[2]",
+            "css": "#list-area input",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                74,
+                12
+            ],
+            "leadsToState": 3
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/div[2]/input[1]",
+            "css": "#t5d1",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                57,
+                1
+            ],
+            "leadsToState": 18
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/input[2]",
+            "css": "#list-area input",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                26,
+                16
+            ],
+            "leadsToState": 21
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/table[1]/tbody[1]/tr[1]/td[1]",
+            "css": "#list-area table tbody tr td.atd",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "mouseover",
+            "info": null,
+            "leadsToState": 22
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/table[1]/tbody[1]/tr[1]/td[1]/input[1]",
+            "css": "#anemia aplastic ",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": null,
+            "leadsToState": 23
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/table[1]/tbody[1]/tr[1]/td[1]/input[1]",
+            "css": "#anemia aplastic ",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "change",
+            "info": null,
+            "leadsToState": 22
+        }
+    ],
+    [
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/input[2]",
+            "css": "#list-area input",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                3,
+                14
+            ],
+            "leadsToState": 3
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/div[2]/input[1]",
+            "css": "#t5d1",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                8,
+                11
+            ],
+            "leadsToState": 18
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/input[2]",
+            "css": "#list-area input",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                4,
+                21
+            ],
+            "leadsToState": 21
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/table[1]/tbody[1]/tr[1]/td[1]",
+            "css": "#list-area table tbody tr td.atd",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "mouseover",
+            "info": null,
+            "leadsToState": 22
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/table[1]/tbody[1]/tr[1]/td[1]/input[1]",
+            "css": "#anemia aplastic ",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "change",
+            "info": null,
+            "leadsToState": 23
+        }
+    ],
+    [
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/input[2]",
+            "css": "#list-area input",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                74,
+                19
+            ],
+            "leadsToState": 3
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/div[2]/input[1]",
+            "css": "#t5d1",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                62,
+                28
+            ],
+            "leadsToState": 18
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/input[2]",
+            "css": "#list-area input",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                29,
+                18
+            ],
+            "leadsToState": 21
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/table[1]/tbody[1]/tr[2]/td[1]",
+            "css": "#list-area table tbody tr td.atd",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "mouseover",
+            "info": null,
+            "leadsToState": 24
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/table[1]/tbody[1]/tr[2]/td[1]",
+            "css": "#list-area table tbody tr td.atd",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                146,
+                26
+            ],
+            "leadsToState": 24
+        }
+    ],
+    [
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/input[2]",
+            "css": "#list-area input",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                15,
+                4
+            ],
+            "leadsToState": 3
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/div[2]/input[1]",
+            "css": "#t5d1",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                64,
+                14
+            ],
+            "leadsToState": 18
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/input[2]",
+            "css": "#list-area input",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                29,
+                17
+            ],
+            "leadsToState": 21
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/table[1]/tbody[1]/tr[2]/td[1]",
+            "css": "#list-area table tbody tr td.atd",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "mouseover",
+            "info": null,
+            "leadsToState": 24
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/table[1]/tbody[1]/tr[2]/td[1]",
+            "css": "#list-area table tbody tr td.atd",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "mouseout",
+            "info": null,
+            "leadsToState": 21
+        }
+    ],
+    [
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/input[2]",
+            "css": "#list-area input",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                70,
+                19
+            ],
+            "leadsToState": 3
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/div[2]/input[1]",
+            "css": "#t5d1",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                19,
+                9
+            ],
+            "leadsToState": 18
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/input[2]",
+            "css": "#list-area input",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                52,
+                16
+            ],
+            "leadsToState": 21
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/table[1]/tbody[1]/tr[2]/td[1]",
+            "css": "#list-area table tbody tr td.atd",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "mouseover",
+            "info": null,
+            "leadsToState": 24
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/table[1]/tbody[1]/tr[2]/td[1]/input[1]",
+            "css": "#blood coagulation disorders ",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": null,
+            "leadsToState": 25
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/table[1]/tbody[1]/tr[2]/td[1]",
+            "css": "#list-area table tbody tr td.atd",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                74,
+                9
+            ],
+            "leadsToState": 25
+        }
+    ],
+    [
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/input[2]",
+            "css": "#list-area input",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                58,
+                11
+            ],
+            "leadsToState": 3
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/div[2]/input[1]",
+            "css": "#t5d1",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                67,
+                30
+            ],
+            "leadsToState": 18
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/input[2]",
+            "css": "#list-area input",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                33,
+                14
+            ],
+            "leadsToState": 21
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/table[1]/tbody[1]/tr[2]/td[1]",
+            "css": "#list-area table tbody tr td.atd",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "mouseover",
+            "info": null,
+            "leadsToState": 24
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/table[1]/tbody[1]/tr[2]/td[1]/input[1]",
+            "css": "#blood coagulation disorders ",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": null,
+            "leadsToState": 25
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/table[1]/tbody[1]/tr[2]/td[1]",
+            "css": "#list-area table tbody tr td.atd",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "mouseout",
+            "info": null,
+            "leadsToState": 18
+        }
+    ],
+    [
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/input[2]",
+            "css": "#list-area input",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                46,
+                9
+            ],
+            "leadsToState": 3
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/div[2]/input[1]",
+            "css": "#t5d1",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                17,
+                4
+            ],
+            "leadsToState": 18
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/input[2]",
+            "css": "#list-area input",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                52,
+                4
+            ],
+            "leadsToState": 21
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/table[1]/tbody[1]/tr[2]/td[1]",
+            "css": "#list-area table tbody tr td.atd",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "mouseover",
+            "info": null,
+            "leadsToState": 24
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/table[1]/tbody[1]/tr[2]/td[1]/input[1]",
+            "css": "#blood coagulation disorders ",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": null,
+            "leadsToState": 25
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/table[1]/tbody[1]/tr[2]/td[1]/input[1]",
+            "css": "#blood coagulation disorders ",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": null,
+            "leadsToState": 24
+        }
+    ],
+    [
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/input[2]",
+            "css": "#list-area input",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                7,
+                12
+            ],
+            "leadsToState": 3
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/div[2]/input[1]",
+            "css": "#t5d1",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                21,
+                21
+            ],
+            "leadsToState": 18
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/input[2]",
+            "css": "#list-area input",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                78,
+                3
+            ],
+            "leadsToState": 21
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/table[1]/tbody[1]/tr[2]/td[1]",
+            "css": "#list-area table tbody tr td.atd",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "mouseover",
+            "info": null,
+            "leadsToState": 24
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/table[1]/tbody[1]/tr[2]/td[1]/input[1]",
+            "css": "#blood coagulation disorders ",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": null,
+            "leadsToState": 25
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/table[1]/tbody[1]/tr[2]/td[1]/input[1]",
+            "css": "#blood coagulation disorders ",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "change",
+            "info": null,
+            "leadsToState": 24
+        }
+    ],
+    [
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/input[2]",
+            "css": "#list-area input",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                80,
+                5
+            ],
+            "leadsToState": 3
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/div[2]/input[1]",
+            "css": "#t5d1",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                14,
+                28
+            ],
+            "leadsToState": 18
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/input[2]",
+            "css": "#list-area input",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                75,
+                10
+            ],
+            "leadsToState": 21
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/table[1]/tbody[1]/tr[2]/td[1]",
+            "css": "#list-area table tbody tr td.atd",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "mouseover",
+            "info": null,
+            "leadsToState": 24
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/table[1]/tbody[1]/tr[2]/td[1]/input[1]",
+            "css": "#blood coagulation disorders ",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "change",
+            "info": null,
+            "leadsToState": 25
+        }
+    ],
+    [
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/input[2]",
+            "css": "#list-area input",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                25,
+                4
+            ],
+            "leadsToState": 3
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/div[2]/input[1]",
+            "css": "#t5d1",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                8,
+                7
+            ],
+            "leadsToState": 18
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/input[2]",
+            "css": "#list-area input",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                7,
+                16
+            ],
+            "leadsToState": 21
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/table[1]/tbody[1]/tr[3]/td[1]",
+            "css": "#list-area table tbody tr td.atd",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "mouseover",
+            "info": null,
+            "leadsToState": 26
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/table[1]/tbody[1]/tr[3]/td[1]",
+            "css": "#list-area table tbody tr td.atd",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                82,
+                5
+            ],
+            "leadsToState": 26
+        }
+    ],
+    [
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/input[2]",
+            "css": "#list-area input",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                84,
+                20
+            ],
+            "leadsToState": 3
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/div[2]/input[1]",
+            "css": "#t5d1",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                73,
+                8
+            ],
+            "leadsToState": 18
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/input[2]",
+            "css": "#list-area input",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                80,
+                16
+            ],
+            "leadsToState": 21
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/table[1]/tbody[1]/tr[3]/td[1]",
+            "css": "#list-area table tbody tr td.atd",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "mouseover",
+            "info": null,
+            "leadsToState": 26
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/table[1]/tbody[1]/tr[3]/td[1]",
+            "css": "#list-area table tbody tr td.atd",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "mouseout",
+            "info": null,
+            "leadsToState": 21
+        }
+    ],
+    [
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/input[2]",
+            "css": "#list-area input",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                15,
+                14
+            ],
+            "leadsToState": 3
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/div[2]/input[1]",
+            "css": "#t5d1",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                17,
+                30
+            ],
+            "leadsToState": 18
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/input[2]",
+            "css": "#list-area input",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                63,
+                11
+            ],
+            "leadsToState": 21
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/table[1]/tbody[1]/tr[3]/td[1]",
+            "css": "#list-area table tbody tr td.atd",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "mouseover",
+            "info": null,
+            "leadsToState": 26
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/table[1]/tbody[1]/tr[3]/td[1]/input[1]",
+            "css": "#blood platelet disorders ",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": null,
+            "leadsToState": 27
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/table[1]/tbody[1]/tr[3]/td[1]",
+            "css": "#list-area table tbody tr td.atd",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                99,
+                8
+            ],
+            "leadsToState": 27
+        }
+    ],
+    [
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/input[2]",
+            "css": "#list-area input",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                72,
+                8
+            ],
+            "leadsToState": 3
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/div[2]/input[1]",
+            "css": "#t5d1",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                24,
+                7
+            ],
+            "leadsToState": 18
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/input[2]",
+            "css": "#list-area input",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                66,
+                1
+            ],
+            "leadsToState": 21
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/table[1]/tbody[1]/tr[3]/td[1]",
+            "css": "#list-area table tbody tr td.atd",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "mouseover",
+            "info": null,
+            "leadsToState": 26
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/table[1]/tbody[1]/tr[3]/td[1]/input[1]",
+            "css": "#blood platelet disorders ",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": null,
+            "leadsToState": 27
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/table[1]/tbody[1]/tr[3]/td[1]",
+            "css": "#list-area table tbody tr td.atd",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "mouseout",
+            "info": null,
+            "leadsToState": 18
+        }
+    ],
+    [
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/input[2]",
+            "css": "#list-area input",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                47,
+                8
+            ],
+            "leadsToState": 3
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/div[2]/input[1]",
+            "css": "#t5d1",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                64,
+                32
+            ],
+            "leadsToState": 18
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/input[2]",
+            "css": "#list-area input",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                5,
+                3
+            ],
+            "leadsToState": 21
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/table[1]/tbody[1]/tr[3]/td[1]",
+            "css": "#list-area table tbody tr td.atd",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "mouseover",
+            "info": null,
+            "leadsToState": 26
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/table[1]/tbody[1]/tr[3]/td[1]/input[1]",
+            "css": "#blood platelet disorders ",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": null,
+            "leadsToState": 27
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/table[1]/tbody[1]/tr[3]/td[1]/input[1]",
+            "css": "#blood platelet disorders ",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": null,
+            "leadsToState": 26
+        }
+    ],
+    [
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/input[2]",
+            "css": "#list-area input",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                42,
+                20
+            ],
+            "leadsToState": 3
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/div[2]/input[1]",
+            "css": "#t5d1",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                44,
+                29
+            ],
+            "leadsToState": 18
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/input[2]",
+            "css": "#list-area input",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                31,
+                15
+            ],
+            "leadsToState": 21
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/table[1]/tbody[1]/tr[3]/td[1]",
+            "css": "#list-area table tbody tr td.atd",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "mouseover",
+            "info": null,
+            "leadsToState": 26
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/table[1]/tbody[1]/tr[3]/td[1]/input[1]",
+            "css": "#blood platelet disorders ",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": null,
+            "leadsToState": 27
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/table[1]/tbody[1]/tr[3]/td[1]/input[1]",
+            "css": "#blood platelet disorders ",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "change",
+            "info": null,
+            "leadsToState": 26
+        }
+    ],
+    [
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/input[2]",
+            "css": "#list-area input",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                40,
+                10
+            ],
+            "leadsToState": 3
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/div[2]/input[1]",
+            "css": "#t5d1",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                8,
+                19
+            ],
+            "leadsToState": 18
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/input[2]",
+            "css": "#list-area input",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                58,
+                7
+            ],
+            "leadsToState": 21
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/table[1]/tbody[1]/tr[3]/td[1]",
+            "css": "#list-area table tbody tr td.atd",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "mouseover",
+            "info": null,
+            "leadsToState": 26
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/table[1]/tbody[1]/tr[3]/td[1]/input[1]",
+            "css": "#blood platelet disorders ",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "change",
+            "info": null,
+            "leadsToState": 27
+        }
+    ],
+    [
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/input[2]",
+            "css": "#list-area input",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                30,
+                15
+            ],
+            "leadsToState": 3
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/div[2]/input[1]",
+            "css": "#t5d1",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                64,
+                18
+            ],
+            "leadsToState": 18
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/input[2]",
+            "css": "#list-area input",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                65,
+                9
+            ],
+            "leadsToState": 21
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/table[1]/tbody[1]/tr[4]/td[1]",
+            "css": "#list-area table tbody tr td.atd",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "mouseover",
+            "info": null,
+            "leadsToState": 28
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/table[1]/tbody[1]/tr[4]/td[1]",
+            "css": "#list-area table tbody tr td.atd",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                75,
+                13
+            ],
+            "leadsToState": 28
+        }
+    ],
+    [
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/input[2]",
+            "css": "#list-area input",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                53,
+                20
+            ],
+            "leadsToState": 3
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/div[2]/input[1]",
+            "css": "#t5d1",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                1,
+                23
+            ],
+            "leadsToState": 18
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/input[2]",
+            "css": "#list-area input",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                43,
+                20
+            ],
+            "leadsToState": 21
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/table[1]/tbody[1]/tr[4]/td[1]",
+            "css": "#list-area table tbody tr td.atd",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "mouseover",
+            "info": null,
+            "leadsToState": 28
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/table[1]/tbody[1]/tr[4]/td[1]",
+            "css": "#list-area table tbody tr td.atd",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "mouseout",
+            "info": null,
+            "leadsToState": 21
+        }
+    ],
+    [
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/input[2]",
+            "css": "#list-area input",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                79,
+                14
+            ],
+            "leadsToState": 3
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/div[2]/input[1]",
+            "css": "#t5d1",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                24,
+                14
+            ],
+            "leadsToState": 18
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/input[2]",
+            "css": "#list-area input",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                85,
+                3
+            ],
+            "leadsToState": 21
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/table[1]/tbody[1]/tr[4]/td[1]",
+            "css": "#list-area table tbody tr td.atd",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "mouseover",
+            "info": null,
+            "leadsToState": 28
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/table[1]/tbody[1]/tr[4]/td[1]/input[1]",
+            "css": "#exophthalmos ",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": null,
+            "leadsToState": 29
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/table[1]/tbody[1]/tr[4]/td[1]",
+            "css": "#list-area table tbody tr td.atd",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                38,
+                3
+            ],
+            "leadsToState": 29
+        }
+    ],
+    [
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/input[2]",
+            "css": "#list-area input",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                15,
+                10
+            ],
+            "leadsToState": 3
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/div[2]/input[1]",
+            "css": "#t5d1",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                28,
+                12
+            ],
+            "leadsToState": 18
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/input[2]",
+            "css": "#list-area input",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                65,
+                21
+            ],
+            "leadsToState": 21
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/table[1]/tbody[1]/tr[4]/td[1]",
+            "css": "#list-area table tbody tr td.atd",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "mouseover",
+            "info": null,
+            "leadsToState": 28
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/table[1]/tbody[1]/tr[4]/td[1]/input[1]",
+            "css": "#exophthalmos ",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": null,
+            "leadsToState": 29
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/table[1]/tbody[1]/tr[4]/td[1]",
+            "css": "#list-area table tbody tr td.atd",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "mouseout",
+            "info": null,
+            "leadsToState": 18
+        }
+    ],
+    [
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/input[2]",
+            "css": "#list-area input",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                31,
+                12
+            ],
+            "leadsToState": 3
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/div[2]/input[1]",
+            "css": "#t5d1",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                62,
+                3
+            ],
+            "leadsToState": 18
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/input[2]",
+            "css": "#list-area input",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                44,
+                17
+            ],
+            "leadsToState": 21
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/table[1]/tbody[1]/tr[4]/td[1]",
+            "css": "#list-area table tbody tr td.atd",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "mouseover",
+            "info": null,
+            "leadsToState": 28
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/table[1]/tbody[1]/tr[4]/td[1]/input[1]",
+            "css": "#exophthalmos ",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": null,
+            "leadsToState": 29
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/table[1]/tbody[1]/tr[4]/td[1]/input[1]",
+            "css": "#exophthalmos ",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": null,
+            "leadsToState": 28
+        }
+    ],
+    [
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/input[2]",
+            "css": "#list-area input",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                57,
+                3
+            ],
+            "leadsToState": 3
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/div[2]/input[1]",
+            "css": "#t5d1",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                25,
+                17
+            ],
+            "leadsToState": 18
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/input[2]",
+            "css": "#list-area input",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                17,
+                16
+            ],
+            "leadsToState": 21
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/table[1]/tbody[1]/tr[4]/td[1]",
+            "css": "#list-area table tbody tr td.atd",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "mouseover",
+            "info": null,
+            "leadsToState": 28
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/table[1]/tbody[1]/tr[4]/td[1]/input[1]",
+            "css": "#exophthalmos ",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": null,
+            "leadsToState": 29
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/table[1]/tbody[1]/tr[4]/td[1]/input[1]",
+            "css": "#exophthalmos ",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "change",
+            "info": null,
+            "leadsToState": 28
+        }
+    ],
+    [
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/input[2]",
+            "css": "#list-area input",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                62,
+                16
+            ],
+            "leadsToState": 3
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/div[2]/input[1]",
+            "css": "#t5d1",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                52,
+                22
+            ],
+            "leadsToState": 18
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/input[2]",
+            "css": "#list-area input",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                61,
+                2
+            ],
+            "leadsToState": 21
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/table[1]/tbody[1]/tr[4]/td[1]",
+            "css": "#list-area table tbody tr td.atd",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "mouseover",
+            "info": null,
+            "leadsToState": 28
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/table[1]/tbody[1]/tr[4]/td[1]/input[1]",
+            "css": "#exophthalmos ",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "change",
+            "info": null,
+            "leadsToState": 29
+        }
+    ],
+    [
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/input[2]",
+            "css": "#list-area input",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                59,
+                15
+            ],
+            "leadsToState": 3
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/div[2]/input[1]",
+            "css": "#t5d1",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                67,
+                24
+            ],
+            "leadsToState": 18
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/input[2]",
+            "css": "#list-area input",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                5,
+                14
+            ],
+            "leadsToState": 21
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/table[1]/tbody[1]/tr[5]/td[1]",
+            "css": "#list-area table tbody tr td.atd",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "mouseover",
+            "info": null,
+            "leadsToState": 30
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/table[1]/tbody[1]/tr[5]/td[1]",
+            "css": "#list-area table tbody tr td.atd",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                110,
+                17
+            ],
+            "leadsToState": 30
+        }
+    ],
+    [
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/input[2]",
+            "css": "#list-area input",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                51,
+                13
+            ],
+            "leadsToState": 3
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/div[2]/input[1]",
+            "css": "#t5d1",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                6,
+                29
+            ],
+            "leadsToState": 18
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/input[2]",
+            "css": "#list-area input",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                69,
+                5
+            ],
+            "leadsToState": 21
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/table[1]/tbody[1]/tr[5]/td[1]",
+            "css": "#list-area table tbody tr td.atd",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "mouseover",
+            "info": null,
+            "leadsToState": 30
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/table[1]/tbody[1]/tr[5]/td[1]",
+            "css": "#list-area table tbody tr td.atd",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "mouseout",
+            "info": null,
+            "leadsToState": 21
+        }
+    ],
+    [
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/input[2]",
+            "css": "#list-area input",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                18,
+                18
+            ],
+            "leadsToState": 3
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/div[2]/input[1]",
+            "css": "#t5d1",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                55,
+                28
+            ],
+            "leadsToState": 18
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/input[2]",
+            "css": "#list-area input",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                12,
+                21
+            ],
+            "leadsToState": 21
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/table[1]/tbody[1]/tr[5]/td[1]",
+            "css": "#list-area table tbody tr td.atd",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "mouseover",
+            "info": null,
+            "leadsToState": 30
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/table[1]/tbody[1]/tr[5]/td[1]/input[1]",
+            "css": "#graves disease ",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": null,
+            "leadsToState": 31
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/table[1]/tbody[1]/tr[5]/td[1]",
+            "css": "#list-area table tbody tr td.atd",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                50,
+                2
+            ],
+            "leadsToState": 31
+        }
+    ],
+    [
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/input[2]",
+            "css": "#list-area input",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                70,
+                18
+            ],
+            "leadsToState": 3
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/div[2]/input[1]",
+            "css": "#t5d1",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                15,
+                34
+            ],
+            "leadsToState": 18
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/input[2]",
+            "css": "#list-area input",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                9,
+                1
+            ],
+            "leadsToState": 21
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/table[1]/tbody[1]/tr[5]/td[1]",
+            "css": "#list-area table tbody tr td.atd",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "mouseover",
+            "info": null,
+            "leadsToState": 30
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/table[1]/tbody[1]/tr[5]/td[1]/input[1]",
+            "css": "#graves disease ",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": null,
+            "leadsToState": 31
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/table[1]/tbody[1]/tr[5]/td[1]",
+            "css": "#list-area table tbody tr td.atd",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "mouseout",
+            "info": null,
+            "leadsToState": 18
+        }
+    ],
+    [
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/input[2]",
+            "css": "#list-area input",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                77,
+                10
+            ],
+            "leadsToState": 3
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/div[2]/input[1]",
+            "css": "#t5d1",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                19,
+                5
+            ],
+            "leadsToState": 18
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/input[2]",
+            "css": "#list-area input",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                44,
+                9
+            ],
+            "leadsToState": 21
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/table[1]/tbody[1]/tr[5]/td[1]",
+            "css": "#list-area table tbody tr td.atd",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "mouseover",
+            "info": null,
+            "leadsToState": 30
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/table[1]/tbody[1]/tr[5]/td[1]/input[1]",
+            "css": "#graves disease ",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": null,
+            "leadsToState": 31
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/table[1]/tbody[1]/tr[5]/td[1]/input[1]",
+            "css": "#graves disease ",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": null,
+            "leadsToState": 30
+        }
+    ],
+    [
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/input[2]",
+            "css": "#list-area input",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                5,
+                10
+            ],
+            "leadsToState": 3
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/div[2]/input[1]",
+            "css": "#t5d1",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                27,
+                27
+            ],
+            "leadsToState": 18
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/input[2]",
+            "css": "#list-area input",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                51,
+                2
+            ],
+            "leadsToState": 21
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/table[1]/tbody[1]/tr[5]/td[1]",
+            "css": "#list-area table tbody tr td.atd",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "mouseover",
+            "info": null,
+            "leadsToState": 30
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/table[1]/tbody[1]/tr[5]/td[1]/input[1]",
+            "css": "#graves disease ",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": null,
+            "leadsToState": 31
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/table[1]/tbody[1]/tr[5]/td[1]/input[1]",
+            "css": "#graves disease ",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "change",
+            "info": null,
+            "leadsToState": 30
+        }
+    ],
+    [
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/input[2]",
+            "css": "#list-area input",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                67,
+                15
+            ],
+            "leadsToState": 3
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/div[2]/input[1]",
+            "css": "#t5d1",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                60,
+                30
+            ],
+            "leadsToState": 18
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/input[2]",
+            "css": "#list-area input",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                34,
+                7
+            ],
+            "leadsToState": 21
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/table[1]/tbody[1]/tr[5]/td[1]",
+            "css": "#list-area table tbody tr td.atd",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "mouseover",
+            "info": null,
+            "leadsToState": 30
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/table[1]/tbody[1]/tr[5]/td[1]/input[1]",
+            "css": "#graves disease ",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "change",
+            "info": null,
+            "leadsToState": 31
+        }
+    ],
+    [
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/input[2]",
+            "css": "#list-area input",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                28,
+                4
+            ],
+            "leadsToState": 3
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/div[2]/input[1]",
+            "css": "#t5d1",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                5,
+                15
+            ],
+            "leadsToState": 18
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/input[2]",
+            "css": "#list-area input",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                74,
+                16
+            ],
+            "leadsToState": 21
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/div[2]/div[1]/input[1]",
+            "css": "#cancdis",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                41,
+                32
+            ],
+            "leadsToState": 0
+        }
+    ],
+    [
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/input[2]",
+            "css": "#list-area input",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                78,
+                18
+            ],
+            "leadsToState": 3
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/div[2]/input[1]",
+            "css": "#t5d1",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                42,
+                8
+            ],
+            "leadsToState": 18
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/input[2]",
+            "css": "#list-area input",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                5,
+                17
+            ],
+            "leadsToState": 21
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/div[2]/input[1]",
+            "css": "#t5d1",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                58,
+                33
+            ],
+            "leadsToState": 18
+        }
+    ],
+    [
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/input[2]",
+            "css": "#list-area input",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                10,
+                6
+            ],
+            "leadsToState": 3
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/div[2]/input[1]",
+            "css": "#t5d1",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                35,
+                24
+            ],
+            "leadsToState": 18
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/input[2]",
+            "css": "#list-area input",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                60,
+                15
+            ],
+            "leadsToState": 21
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/div[2]/input[2]",
+            "css": "#t5d2",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                51,
+                2
+            ],
+            "leadsToState": 18
+        }
+    ],
+    [
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/input[2]",
+            "css": "#list-area input",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                60,
+                8
+            ],
+            "leadsToState": 3
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/div[2]/input[1]",
+            "css": "#t5d1",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                44,
+                7
+            ],
+            "leadsToState": 18
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/input[2]",
+            "css": "#list-area input",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                6,
+                17
+            ],
+            "leadsToState": 21
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/div[2]/input[3]",
+            "css": "#t5s",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                31,
+                25
+            ],
+            "leadsToState": 18
+        }
+    ],
+    [
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/input[2]",
+            "css": "#list-area input",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                19,
+                9
+            ],
+            "leadsToState": 3
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/div[2]/input[1]",
+            "css": "#t5d1",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                36,
+                15
+            ],
+            "leadsToState": 18
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/table[1]/tbody[1]/tr[1]/td[1]",
+            "css": "#list-area table tbody tr td.atd",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "mouseover",
+            "info": null,
+            "leadsToState": 23
+        }
+    ],
+    [
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/input[2]",
+            "css": "#list-area input",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                25,
+                3
+            ],
+            "leadsToState": 3
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/div[2]/input[1]",
+            "css": "#t5d1",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                36,
+                12
+            ],
+            "leadsToState": 18
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/table[1]/tbody[1]/tr[2]/td[1]",
+            "css": "#list-area table tbody tr td.atd",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "mouseover",
+            "info": null,
+            "leadsToState": 25
+        }
+    ],
+    [
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/input[2]",
+            "css": "#list-area input",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                47,
+                7
+            ],
+            "leadsToState": 3
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/div[2]/input[1]",
+            "css": "#t5d1",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                6,
+                15
+            ],
+            "leadsToState": 18
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/table[1]/tbody[1]/tr[3]/td[1]",
+            "css": "#list-area table tbody tr td.atd",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "mouseover",
+            "info": null,
+            "leadsToState": 27
+        }
+    ],
+    [
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/input[2]",
+            "css": "#list-area input",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                51,
+                2
+            ],
+            "leadsToState": 3
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/div[2]/input[1]",
+            "css": "#t5d1",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                38,
+                20
+            ],
+            "leadsToState": 18
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/table[1]/tbody[1]/tr[4]/td[1]",
+            "css": "#list-area table tbody tr td.atd",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "mouseover",
+            "info": null,
+            "leadsToState": 29
+        }
+    ],
+    [
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/input[2]",
+            "css": "#list-area input",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                4,
+                1
+            ],
+            "leadsToState": 3
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/div[2]/input[1]",
+            "css": "#t5d1",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                62,
+                3
+            ],
+            "leadsToState": 18
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/table[1]/tbody[1]/tr[5]/td[1]",
+            "css": "#list-area table tbody tr td.atd",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "mouseover",
+            "info": null,
+            "leadsToState": 31
+        }
+    ],
+    [
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/input[2]",
+            "css": "#list-area input",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                77,
+                15
+            ],
+            "leadsToState": 3
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/div[2]/input[1]",
+            "css": "#t5d1",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                29,
+                28
+            ],
+            "leadsToState": 18
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/div[2]/div[1]/input[1]",
+            "css": "#cancdis",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                67,
+                3
+            ],
+            "leadsToState": 0
+        }
+    ],
+    [
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/input[2]",
+            "css": "#list-area input",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                61,
+                16
+            ],
+            "leadsToState": 3
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/div[2]/input[2]",
+            "css": "#t5d2",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                55,
+                18
+            ],
+            "leadsToState": 18
+        }
+    ],
+    [
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/input[2]",
+            "css": "#list-area input",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                67,
+                10
+            ],
+            "leadsToState": 3
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/div[2]/input[3]",
+            "css": "#t5s",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                73,
+                16
+            ],
+            "leadsToState": 18
+        }
+    ],
+    [
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/table[1]/tbody[1]/tr[1]/td[1]",
+            "css": "#list-area table tbody tr td.atd",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "mouseover",
+            "info": null,
+            "leadsToState": 5
+        }
+    ],
+    [
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/table[1]/tbody[1]/tr[2]/td[1]",
+            "css": "#list-area table tbody tr td.atd",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "mouseover",
+            "info": null,
+            "leadsToState": 7
+        }
+    ],
+    [
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/table[1]/tbody[1]/tr[3]/td[1]",
+            "css": "#list-area table tbody tr td.atd",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "mouseover",
+            "info": null,
+            "leadsToState": 9
+        }
+    ],
+    [
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/table[1]/tbody[1]/tr[4]/td[1]",
+            "css": "#list-area table tbody tr td.atd",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "mouseover",
+            "info": null,
+            "leadsToState": 11
+        }
+    ],
+    [
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/table[1]/tbody[1]/tr[5]/td[1]",
+            "css": "#list-area table tbody tr td.atd",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "mouseover",
+            "info": null,
+            "leadsToState": 13
+        }
+    ],
+    [
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/table[1]/tbody[1]/tr[6]/td[1]",
+            "css": "#list-area table tbody tr td.atd",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "mouseover",
+            "info": null,
+            "leadsToState": 15
+        }
+    ],
+    [
+        {
+            "xpath": "/html[1]/body[1]/div[2]/div[4]/table[1]/tbody[1]/tr[7]/td[1]",
+            "css": "#list-area table tbody tr td.atd",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "mouseover",
+            "info": null,
+            "leadsToState": 17
+        }
+    ]
+]

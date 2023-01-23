@@ -1,0 +1,1550 @@
+[
+    [],
+    [
+        {
+            "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[2]/*[name()='svg'][1]/*[name()='rect'][1]",
+            "css": "#dag rect",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "panzoom",
+            "info": [
+                "L",
+                [
+                    800,
+                    1000
+                ],
+                [
+                    692,
+                    214
+                ],
+                [
+                    "left",
+                    "up"
+                ]
+            ],
+            "leadsToState": 0
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[2]/*[name()='svg'][1]/*[name()='rect'][1]",
+            "css": "#dag rect",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "panzoom",
+            "info": [
+                "M",
+                [
+                    800,
+                    1000
+                ],
+                [
+                    99,
+                    151
+                ],
+                [
+                    "right",
+                    "down"
+                ]
+            ],
+            "leadsToState": 0
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[2]/*[name()='svg'][1]/*[name()='rect'][1]",
+            "css": "#dag rect",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "panzoom",
+            "info": [
+                "B",
+                [
+                    800,
+                    1000
+                ],
+                [
+                    422,
+                    133
+                ],
+                [
+                    "right",
+                    "up"
+                ]
+            ],
+            "leadsToState": 0
+        }
+    ],
+    [
+        {
+            "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[2]/*[name()='svg'][1]/*[name()='rect'][1]",
+            "css": "#dag rect",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "wheel",
+            "info": [
+                "in",
+                [
+                    "L",
+                    [
+                        349,
+                        655
+                    ]
+                ]
+            ],
+            "leadsToState": 0
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[2]/*[name()='svg'][1]/*[name()='rect'][1]",
+            "css": "#dag rect",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "wheel",
+            "info": [
+                "in",
+                [
+                    "L",
+                    [
+                        828,
+                        368
+                    ]
+                ]
+            ],
+            "leadsToState": 0
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[2]/*[name()='svg'][1]/*[name()='rect'][1]",
+            "css": "#dag rect",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "wheel",
+            "info": [
+                "in",
+                [
+                    "L",
+                    [
+                        925,
+                        61
+                    ]
+                ]
+            ],
+            "leadsToState": 0
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[2]/*[name()='svg'][1]/*[name()='rect'][1]",
+            "css": "#dag rect",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "wheel",
+            "info": [
+                "out",
+                [
+                    "L",
+                    [
+                        747,
+                        211
+                    ]
+                ]
+            ],
+            "leadsToState": 0
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[2]/*[name()='svg'][1]/*[name()='rect'][1]",
+            "css": "#dag rect",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "wheel",
+            "info": [
+                "out",
+                [
+                    "L",
+                    [
+                        310,
+                        310
+                    ]
+                ]
+            ],
+            "leadsToState": 0
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[2]/*[name()='svg'][1]/*[name()='rect'][1]",
+            "css": "#dag rect",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "wheel",
+            "info": [
+                "out",
+                [
+                    "L",
+                    [
+                        211,
+                        796
+                    ]
+                ]
+            ],
+            "leadsToState": 0
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[2]/*[name()='svg'][1]/*[name()='rect'][1]",
+            "css": "#dag rect",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "wheel",
+            "info": [
+                "in",
+                [
+                    "M",
+                    [
+                        188,
+                        598
+                    ]
+                ]
+            ],
+            "leadsToState": 0
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[2]/*[name()='svg'][1]/*[name()='rect'][1]",
+            "css": "#dag rect",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "wheel",
+            "info": [
+                "in",
+                [
+                    "M",
+                    [
+                        320,
+                        116
+                    ]
+                ]
+            ],
+            "leadsToState": 0
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[2]/*[name()='svg'][1]/*[name()='rect'][1]",
+            "css": "#dag rect",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "wheel",
+            "info": [
+                "in",
+                [
+                    "M",
+                    [
+                        888,
+                        94
+                    ]
+                ]
+            ],
+            "leadsToState": 0
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[2]/*[name()='svg'][1]/*[name()='rect'][1]",
+            "css": "#dag rect",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "wheel",
+            "info": [
+                "out",
+                [
+                    "M",
+                    [
+                        554,
+                        211
+                    ]
+                ]
+            ],
+            "leadsToState": 0
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[2]/*[name()='svg'][1]/*[name()='rect'][1]",
+            "css": "#dag rect",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "wheel",
+            "info": [
+                "out",
+                [
+                    "M",
+                    [
+                        249,
+                        231
+                    ]
+                ]
+            ],
+            "leadsToState": 0
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[2]/*[name()='svg'][1]/*[name()='rect'][1]",
+            "css": "#dag rect",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "wheel",
+            "info": [
+                "out",
+                [
+                    "M",
+                    [
+                        838,
+                        331
+                    ]
+                ]
+            ],
+            "leadsToState": 0
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[2]/*[name()='svg'][1]/*[name()='rect'][1]",
+            "css": "#dag rect",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "wheel",
+            "info": [
+                "in",
+                [
+                    "B",
+                    [
+                        509,
+                        608
+                    ]
+                ]
+            ],
+            "leadsToState": 0
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[2]/*[name()='svg'][1]/*[name()='rect'][1]",
+            "css": "#dag rect",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "wheel",
+            "info": [
+                "in",
+                [
+                    "B",
+                    [
+                        712,
+                        739
+                    ]
+                ]
+            ],
+            "leadsToState": 0
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[2]/*[name()='svg'][1]/*[name()='rect'][1]",
+            "css": "#dag rect",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "wheel",
+            "info": [
+                "in",
+                [
+                    "B",
+                    [
+                        318,
+                        412
+                    ]
+                ]
+            ],
+            "leadsToState": 0
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[2]/*[name()='svg'][1]/*[name()='rect'][1]",
+            "css": "#dag rect",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "wheel",
+            "info": [
+                "out",
+                [
+                    "B",
+                    [
+                        544,
+                        659
+                    ]
+                ]
+            ],
+            "leadsToState": 0
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[2]/*[name()='svg'][1]/*[name()='rect'][1]",
+            "css": "#dag rect",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "wheel",
+            "info": [
+                "out",
+                [
+                    "B",
+                    [
+                        733,
+                        497
+                    ]
+                ]
+            ],
+            "leadsToState": 0
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[2]/*[name()='svg'][1]/*[name()='rect'][1]",
+            "css": "#dag rect",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "wheel",
+            "info": [
+                "out",
+                [
+                    "B",
+                    [
+                        396,
+                        138
+                    ]
+                ]
+            ],
+            "leadsToState": 0
+        }
+    ],
+    [
+        {
+            "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[8]/div[1]/input[1]",
+            "css": "#dag-height-filter-slider",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "input",
+            "info": [
+                "range",
+                "L",
+                [
+                    175,
+                    400,
+                    120
+                ]
+            ],
+            "leadsToState": 0
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[8]/div[1]/input[1]",
+            "css": "#dag-height-filter-slider",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "input",
+            "info": [
+                "range",
+                "L",
+                [
+                    175,
+                    400,
+                    120
+                ]
+            ],
+            "leadsToState": 0
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[8]/div[1]/input[1]",
+            "css": "#dag-height-filter-slider",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "input",
+            "info": [
+                "range",
+                "L",
+                [
+                    175,
+                    400,
+                    120
+                ]
+            ],
+            "leadsToState": 0
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[8]/div[1]/input[1]",
+            "css": "#dag-height-filter-slider",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "input",
+            "info": [
+                "range",
+                "M",
+                [
+                    175,
+                    400,
+                    120
+                ]
+            ],
+            "leadsToState": 0
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[8]/div[1]/input[1]",
+            "css": "#dag-height-filter-slider",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "input",
+            "info": [
+                "range",
+                "M",
+                [
+                    175,
+                    400,
+                    120
+                ]
+            ],
+            "leadsToState": 0
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[8]/div[1]/input[1]",
+            "css": "#dag-height-filter-slider",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "input",
+            "info": [
+                "range",
+                "M",
+                [
+                    175,
+                    400,
+                    120
+                ]
+            ],
+            "leadsToState": 0
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[8]/div[1]/input[1]",
+            "css": "#dag-height-filter-slider",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "input",
+            "info": [
+                "range",
+                "B",
+                [
+                    175,
+                    400,
+                    120
+                ]
+            ],
+            "leadsToState": 0
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[8]/div[1]/input[1]",
+            "css": "#dag-height-filter-slider",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "input",
+            "info": [
+                "range",
+                "B",
+                [
+                    175,
+                    400,
+                    120
+                ]
+            ],
+            "leadsToState": 0
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[8]/div[1]/input[1]",
+            "css": "#dag-height-filter-slider",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "input",
+            "info": [
+                "range",
+                "B",
+                [
+                    175,
+                    400,
+                    120
+                ]
+            ],
+            "leadsToState": 0
+        }
+    ],
+    [
+        {
+            "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[7]/div[1]/input[1]",
+            "css": "#dag-width-filter-slider",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "input",
+            "info": [
+                "range",
+                "L",
+                [
+                    0,
+                    300,
+                    120
+                ]
+            ],
+            "leadsToState": 0
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[7]/div[1]/input[1]",
+            "css": "#dag-width-filter-slider",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "input",
+            "info": [
+                "range",
+                "L",
+                [
+                    0,
+                    300,
+                    120
+                ]
+            ],
+            "leadsToState": 0
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[7]/div[1]/input[1]",
+            "css": "#dag-width-filter-slider",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "input",
+            "info": [
+                "range",
+                "L",
+                [
+                    0,
+                    300,
+                    120
+                ]
+            ],
+            "leadsToState": 0
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[7]/div[1]/input[1]",
+            "css": "#dag-width-filter-slider",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "input",
+            "info": [
+                "range",
+                "M",
+                [
+                    0,
+                    300,
+                    120
+                ]
+            ],
+            "leadsToState": 0
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[7]/div[1]/input[1]",
+            "css": "#dag-width-filter-slider",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "input",
+            "info": [
+                "range",
+                "M",
+                [
+                    0,
+                    300,
+                    120
+                ]
+            ],
+            "leadsToState": 0
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[7]/div[1]/input[1]",
+            "css": "#dag-width-filter-slider",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "input",
+            "info": [
+                "range",
+                "M",
+                [
+                    0,
+                    300,
+                    120
+                ]
+            ],
+            "leadsToState": 0
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[7]/div[1]/input[1]",
+            "css": "#dag-width-filter-slider",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "input",
+            "info": [
+                "range",
+                "B",
+                [
+                    0,
+                    300,
+                    120
+                ]
+            ],
+            "leadsToState": 0
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[7]/div[1]/input[1]",
+            "css": "#dag-width-filter-slider",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "input",
+            "info": [
+                "range",
+                "B",
+                [
+                    0,
+                    300,
+                    120
+                ]
+            ],
+            "leadsToState": 0
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[7]/div[1]/input[1]",
+            "css": "#dag-width-filter-slider",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "input",
+            "info": [
+                "range",
+                "B",
+                [
+                    0,
+                    300,
+                    120
+                ]
+            ],
+            "leadsToState": 0
+        }
+    ],
+    [
+        {
+            "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[6]/div[1]/input[1]",
+            "css": "#dag-channel-count-filter-slider",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "input",
+            "info": [
+                "range",
+                "L",
+                [
+                    0,
+                    962,
+                    120
+                ]
+            ],
+            "leadsToState": 0
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[6]/div[1]/input[1]",
+            "css": "#dag-channel-count-filter-slider",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "input",
+            "info": [
+                "range",
+                "L",
+                [
+                    0,
+                    962,
+                    120
+                ]
+            ],
+            "leadsToState": 0
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[6]/div[1]/input[1]",
+            "css": "#dag-channel-count-filter-slider",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "input",
+            "info": [
+                "range",
+                "L",
+                [
+                    0,
+                    962,
+                    120
+                ]
+            ],
+            "leadsToState": 0
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[6]/div[1]/input[1]",
+            "css": "#dag-channel-count-filter-slider",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "input",
+            "info": [
+                "range",
+                "M",
+                [
+                    0,
+                    962,
+                    120
+                ]
+            ],
+            "leadsToState": 0
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[6]/div[1]/input[1]",
+            "css": "#dag-channel-count-filter-slider",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "input",
+            "info": [
+                "range",
+                "M",
+                [
+                    0,
+                    962,
+                    120
+                ]
+            ],
+            "leadsToState": 0
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[6]/div[1]/input[1]",
+            "css": "#dag-channel-count-filter-slider",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "input",
+            "info": [
+                "range",
+                "M",
+                [
+                    0,
+                    962,
+                    120
+                ]
+            ],
+            "leadsToState": 0
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[6]/div[1]/input[1]",
+            "css": "#dag-channel-count-filter-slider",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "input",
+            "info": [
+                "range",
+                "B",
+                [
+                    0,
+                    962,
+                    120
+                ]
+            ],
+            "leadsToState": 0
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[6]/div[1]/input[1]",
+            "css": "#dag-channel-count-filter-slider",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "input",
+            "info": [
+                "range",
+                "B",
+                [
+                    0,
+                    962,
+                    120
+                ]
+            ],
+            "leadsToState": 0
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[6]/div[1]/input[1]",
+            "css": "#dag-channel-count-filter-slider",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "input",
+            "info": [
+                "range",
+                "B",
+                [
+                    0,
+                    962,
+                    120
+                ]
+            ],
+            "leadsToState": 0
+        }
+    ],
+    [
+        {
+            "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[5]/button[1]/i[1]",
+            "css": "#dag-home",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                14,
+                7
+            ],
+            "leadsToState": 0
+        }
+    ],
+    [
+        {
+            "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[3]/button[1]",
+            "css": "#left-inner-class-bar-options div div.left-inner-option-wrapper button.square-button",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": null,
+            "leadsToState": 0
+        }
+    ],
+    [
+        {
+            "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]/button[1]",
+            "css": "#left-inner-class-bar-options div div.left-inner-option-wrapper button.square-button",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": null,
+            "leadsToState": 0
+        }
+    ],
+    [
+        {
+            "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[1]/button[1]",
+            "css": "#left-inner-class-bar-options div div.left-inner-option-wrapper button.square-button",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": null,
+            "leadsToState": 0
+        }
+    ],
+    [],
+    [
+        {
+            "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[2]/*[name()='svg'][1]/*[name()='rect'][1]",
+            "css": "#left-inner-embedding svg rect",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "panzoom",
+            "info": [
+                "L",
+                [
+                    400,
+                    400
+                ],
+                [
+                    170,
+                    253
+                ],
+                [
+                    "left",
+                    "down"
+                ]
+            ],
+            "leadsToState": 0
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[2]/*[name()='svg'][1]/*[name()='rect'][1]",
+            "css": "#left-inner-embedding svg rect",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "panzoom",
+            "info": [
+                "M",
+                [
+                    400,
+                    400
+                ],
+                [
+                    349,
+                    42
+                ],
+                [
+                    "right",
+                    "up"
+                ]
+            ],
+            "leadsToState": 0
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[2]/*[name()='svg'][1]/*[name()='rect'][1]",
+            "css": "#left-inner-embedding svg rect",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "panzoom",
+            "info": [
+                "B",
+                [
+                    400,
+                    400
+                ],
+                [
+                    124,
+                    385
+                ],
+                [
+                    "right",
+                    "up"
+                ]
+            ],
+            "leadsToState": 0
+        }
+    ],
+    [
+        {
+            "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[2]/*[name()='svg'][1]/*[name()='rect'][1]",
+            "css": "#left-inner-embedding svg rect",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "wheel",
+            "info": [
+                "in",
+                [
+                    "L",
+                    [
+                        221,
+                        385
+                    ]
+                ]
+            ],
+            "leadsToState": 0
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[2]/*[name()='svg'][1]/*[name()='rect'][1]",
+            "css": "#left-inner-embedding svg rect",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "wheel",
+            "info": [
+                "in",
+                [
+                    "L",
+                    [
+                        315,
+                        183
+                    ]
+                ]
+            ],
+            "leadsToState": 0
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[2]/*[name()='svg'][1]/*[name()='rect'][1]",
+            "css": "#left-inner-embedding svg rect",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "wheel",
+            "info": [
+                "in",
+                [
+                    "L",
+                    [
+                        339,
+                        335
+                    ]
+                ]
+            ],
+            "leadsToState": 0
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[2]/*[name()='svg'][1]/*[name()='rect'][1]",
+            "css": "#left-inner-embedding svg rect",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "wheel",
+            "info": [
+                "out",
+                [
+                    "L",
+                    [
+                        386,
+                        304
+                    ]
+                ]
+            ],
+            "leadsToState": 0
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[2]/*[name()='svg'][1]/*[name()='rect'][1]",
+            "css": "#left-inner-embedding svg rect",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "wheel",
+            "info": [
+                "out",
+                [
+                    "L",
+                    [
+                        135,
+                        80
+                    ]
+                ]
+            ],
+            "leadsToState": 0
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[2]/*[name()='svg'][1]/*[name()='rect'][1]",
+            "css": "#left-inner-embedding svg rect",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "wheel",
+            "info": [
+                "out",
+                [
+                    "L",
+                    [
+                        211,
+                        85
+                    ]
+                ]
+            ],
+            "leadsToState": 0
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[2]/*[name()='svg'][1]/*[name()='rect'][1]",
+            "css": "#left-inner-embedding svg rect",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "wheel",
+            "info": [
+                "in",
+                [
+                    "M",
+                    [
+                        167,
+                        200
+                    ]
+                ]
+            ],
+            "leadsToState": 0
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[2]/*[name()='svg'][1]/*[name()='rect'][1]",
+            "css": "#left-inner-embedding svg rect",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "wheel",
+            "info": [
+                "in",
+                [
+                    "M",
+                    [
+                        91,
+                        136
+                    ]
+                ]
+            ],
+            "leadsToState": 0
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[2]/*[name()='svg'][1]/*[name()='rect'][1]",
+            "css": "#left-inner-embedding svg rect",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "wheel",
+            "info": [
+                "in",
+                [
+                    "M",
+                    [
+                        376,
+                        317
+                    ]
+                ]
+            ],
+            "leadsToState": 0
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[2]/*[name()='svg'][1]/*[name()='rect'][1]",
+            "css": "#left-inner-embedding svg rect",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "wheel",
+            "info": [
+                "out",
+                [
+                    "M",
+                    [
+                        331,
+                        356
+                    ]
+                ]
+            ],
+            "leadsToState": 0
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[2]/*[name()='svg'][1]/*[name()='rect'][1]",
+            "css": "#left-inner-embedding svg rect",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "wheel",
+            "info": [
+                "out",
+                [
+                    "M",
+                    [
+                        169,
+                        136
+                    ]
+                ]
+            ],
+            "leadsToState": 0
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[2]/*[name()='svg'][1]/*[name()='rect'][1]",
+            "css": "#left-inner-embedding svg rect",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "wheel",
+            "info": [
+                "out",
+                [
+                    "M",
+                    [
+                        318,
+                        241
+                    ]
+                ]
+            ],
+            "leadsToState": 0
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[2]/*[name()='svg'][1]/*[name()='rect'][1]",
+            "css": "#left-inner-embedding svg rect",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "wheel",
+            "info": [
+                "in",
+                [
+                    "B",
+                    [
+                        270,
+                        72
+                    ]
+                ]
+            ],
+            "leadsToState": 0
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[2]/*[name()='svg'][1]/*[name()='rect'][1]",
+            "css": "#left-inner-embedding svg rect",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "wheel",
+            "info": [
+                "in",
+                [
+                    "B",
+                    [
+                        226,
+                        158
+                    ]
+                ]
+            ],
+            "leadsToState": 0
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[2]/*[name()='svg'][1]/*[name()='rect'][1]",
+            "css": "#left-inner-embedding svg rect",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "wheel",
+            "info": [
+                "in",
+                [
+                    "B",
+                    [
+                        251,
+                        58
+                    ]
+                ]
+            ],
+            "leadsToState": 0
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[2]/*[name()='svg'][1]/*[name()='rect'][1]",
+            "css": "#left-inner-embedding svg rect",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "wheel",
+            "info": [
+                "out",
+                [
+                    "B",
+                    [
+                        185,
+                        133
+                    ]
+                ]
+            ],
+            "leadsToState": 0
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[2]/*[name()='svg'][1]/*[name()='rect'][1]",
+            "css": "#left-inner-embedding svg rect",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "wheel",
+            "info": [
+                "out",
+                [
+                    "B",
+                    [
+                        128,
+                        6
+                    ]
+                ]
+            ],
+            "leadsToState": 0
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[2]/*[name()='svg'][1]/*[name()='rect'][1]",
+            "css": "#left-inner-embedding svg rect",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "wheel",
+            "info": [
+                "out",
+                [
+                    "B",
+                    [
+                        197,
+                        56
+                    ]
+                ]
+            ],
+            "leadsToState": 0
+        }
+    ],
+    [
+        {
+            "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/button[1]",
+            "css": "#left-inner-embedding-options div.left-inner-option-wrapper button.square-button",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": null,
+            "leadsToState": 0
+        }
+    ],
+    [
+        {
+            "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/*[name()='svg'][1]/*[name()='g'][1]/*[name()='g']",
+            "css": "#net g.layer-glyph-wrapper",
+            "startingPath": 1,
+            "siblings": 8,
+            "event": "mouseover",
+            "info": null,
+            "leadsToState": 1
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/*[name()='svg'][1]/*[name()='g'][1]/*[name()='g']",
+            "css": "#net g.layer-glyph-wrapper",
+            "startingPath": 1,
+            "siblings": 8,
+            "event": "click",
+            "info": null,
+            "leadsToState": 1
+        }
+    ],
+    [
+        {
+            "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/*[name()='svg'][1]/*[name()='g'][1]/*[name()='g']",
+            "css": "#net g.layer-glyph-wrapper",
+            "startingPath": 1,
+            "siblings": 8,
+            "event": "mouseover",
+            "info": null,
+            "leadsToState": 1
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/*[name()='svg'][1]/*[name()='g'][1]/*[name()='g']",
+            "css": "#net g.layer-glyph-wrapper",
+            "startingPath": 1,
+            "siblings": 8,
+            "event": "mouseout",
+            "info": null,
+            "leadsToState": 0
+        }
+    ],
+    [
+        {
+            "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[2]/*[name()='svg'][1]/*[name()='g'][1]/*[name()='g'][1]/*[name()='circle']",
+            "css": "#point-n02106550",
+            "startingPath": 1,
+            "siblings": 999,
+            "event": "mouseover",
+            "info": null,
+            "leadsToState": 2
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[2]/*[name()='svg'][1]/*[name()='g'][1]/*[name()='g'][1]/*[name()='circle']",
+            "css": "#point-n02106550",
+            "startingPath": 1,
+            "siblings": 999,
+            "event": "click",
+            "info": null,
+            "leadsToState": 2
+        }
+    ],
+    [
+        {
+            "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[2]/*[name()='svg'][1]/*[name()='g'][1]/*[name()='g'][1]/*[name()='circle']",
+            "css": "#point-n02106550",
+            "startingPath": 1,
+            "siblings": 999,
+            "event": "mouseover",
+            "info": null,
+            "leadsToState": 2
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[2]/*[name()='svg'][1]/*[name()='g'][1]/*[name()='g'][1]/*[name()='circle']",
+            "css": "#point-n02106550",
+            "startingPath": 1,
+            "siblings": 999,
+            "event": "mouseout",
+            "info": null,
+            "leadsToState": 0
+        }
+    ],
+    [
+        {
+            "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[4]/div[1]",
+            "css": "#class-bar-n02114548",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "mouseover",
+            "info": null,
+            "leadsToState": 3
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[4]/div[1]",
+            "css": "#class-bar-n02114548",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                92,
+                32
+            ],
+            "leadsToState": 3
+        }
+    ],
+    [
+        {
+            "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[4]/div[1]",
+            "css": "#class-bar-n02114548",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "mouseover",
+            "info": null,
+            "leadsToState": 3
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[4]/div[1]",
+            "css": "#class-bar-n02114548",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "mouseout",
+            "info": null,
+            "leadsToState": 0
+        }
+    ],
+    [
+        {
+            "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[5]/div",
+            "css": "#class-bar-n02114712",
+            "startingPath": 1,
+            "siblings": 248,
+            "event": "mouseover",
+            "info": null,
+            "leadsToState": 4
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[5]/div",
+            "css": "#class-bar-n02114712",
+            "startingPath": 1,
+            "siblings": 248,
+            "event": "click",
+            "info": [
+                102,
+                24
+            ],
+            "leadsToState": 4
+        }
+    ],
+    [
+        {
+            "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[5]/div",
+            "css": "#class-bar-n02114712",
+            "startingPath": 1,
+            "siblings": 248,
+            "event": "mouseover",
+            "info": null,
+            "leadsToState": 4
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[5]/div",
+            "css": "#class-bar-n02114712",
+            "startingPath": 1,
+            "siblings": 248,
+            "event": "mouseout",
+            "info": null,
+            "leadsToState": 0
+        }
+    ],
+    [
+        {
+            "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[2]/*[name()='svg'][1]/*[name()='g'][1]/*[name()='path']",
+            "css": "#dag-edge-mixed5b-101-mixed5a-1",
+            "startingPath": 1,
+            "siblings": 123,
+            "event": "mouseover",
+            "info": null,
+            "leadsToState": 5
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[2]/*[name()='svg'][1]/*[name()='g'][1]/*[name()='path']",
+            "css": "#dag-edge-mixed5b-101-mixed5a-1",
+            "startingPath": 1,
+            "siblings": 123,
+            "event": "mouseout",
+            "info": null,
+            "leadsToState": 0
+        }
+    ],
+    [
+        {
+            "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[2]/*[name()='svg'][1]/*[name()='g'][1]/*[name()='image']",
+            "css": "#mixed5b-101-channel",
+            "startingPath": 1,
+            "siblings": 46,
+            "event": "mouseover",
+            "info": null,
+            "leadsToState": 6
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[2]/*[name()='svg'][1]/*[name()='g'][1]/*[name()='image']",
+            "css": "#mixed5b-101-channel",
+            "startingPath": 1,
+            "siblings": 46,
+            "event": "mousemove",
+            "info": [
+                26,
+                21
+            ],
+            "leadsToState": 6
+        }
+    ],
+    [
+        {
+            "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[2]/*[name()='svg'][1]/*[name()='g'][1]/*[name()='image']",
+            "css": "#mixed5b-101-channel",
+            "startingPath": 1,
+            "siblings": 46,
+            "event": "mouseover",
+            "info": null,
+            "leadsToState": 6
+        },
+        {
+            "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[2]/*[name()='svg'][1]/*[name()='g'][1]/*[name()='image']",
+            "css": "#mixed5b-101-channel",
+            "startingPath": 1,
+            "siblings": 46,
+            "event": "mouseout",
+            "info": null,
+            "leadsToState": 0
+        }
+    ]
+]

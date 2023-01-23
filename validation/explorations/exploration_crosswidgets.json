@@ -1,0 +1,3925 @@
+[
+    [
+        {
+            "xpath": "/html[1]/body[1]/main[1]/div[6]/button[1]",
+            "css": "#deselect-all",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": null,
+            "leadsToState": 0
+        }
+    ],
+    [
+        {
+            "xpath": "/html[1]/body[1]/main[1]/div[4]/div[1]/div[7]/div[1]/span[2]",
+            "css": "#selector-block-Alcalinityofash div.selector-block-title span.undo",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": null,
+            "leadsToState": 0
+        }
+    ],
+    [
+        {
+            "xpath": "/html[1]/body[1]/main[1]/div[4]/div[1]/div[5]/div[1]/span[2]",
+            "css": "#selector-block-Ash div.selector-block-title span.undo",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": null,
+            "leadsToState": 0
+        }
+    ],
+    [
+        {
+            "xpath": "/html[1]/body[1]/main[1]/div[4]/div[1]/div[3]/div[1]/span[2]",
+            "css": "#selector-block-Malicacid div.selector-block-title span.undo",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": null,
+            "leadsToState": 0
+        }
+    ],
+    [
+        {
+            "xpath": "/html[1]/body[1]/main[1]/div[4]/div[1]/div[1]/div[1]/span[2]",
+            "css": "#selector-block-Alcohol div.selector-block-title span.undo",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": null,
+            "leadsToState": 0
+        }
+    ],
+    [
+        {
+            "xpath": "/html[1]/body[1]/main[1]/div[2]/*[name()='svg'][1]/*[name()='g'][1]/*[name()='circle']",
+            "css": "#v-0",
+            "startingPath": 1,
+            "siblings": 177,
+            "event": "mouseenter",
+            "info": null,
+            "leadsToState": 1
+        },
+        {
+            "xpath": "/html[1]/body[1]/main[1]/div[2]/*[name()='svg'][1]/*[name()='g'][1]/*[name()='circle']",
+            "css": "#v-0",
+            "startingPath": 1,
+            "siblings": 177,
+            "event": "mouseleave",
+            "info": null,
+            "leadsToState": 0
+        }
+    ],
+    [
+        {
+            "xpath": "/html[1]/body[1]/main[1]/div[4]/div[1]/div[1]/div[2]/div[1]/div[2]/div",
+            "css": "#bargram-interval-Alcohol-0",
+            "startingPath": 1,
+            "siblings": 5,
+            "event": "mouseenter",
+            "info": null,
+            "leadsToState": 2
+        },
+        {
+            "xpath": "/html[1]/body[1]/main[1]/div[4]/div[1]/div[1]/div[2]/div[1]/div[2]/div",
+            "css": "#bargram-interval-Alcohol-0",
+            "startingPath": 1,
+            "siblings": 5,
+            "event": "click",
+            "info": [
+                5,
+                11
+            ],
+            "leadsToState": 2
+        }
+    ],
+    [
+        {
+            "xpath": "/html[1]/body[1]/main[1]/div[4]/div[1]/div[1]/div[2]/div[1]/div[2]/div",
+            "css": "#bargram-interval-Alcohol-0",
+            "startingPath": 1,
+            "siblings": 5,
+            "event": "mouseenter",
+            "info": null,
+            "leadsToState": 2
+        },
+        {
+            "xpath": "/html[1]/body[1]/main[1]/div[4]/div[1]/div[1]/div[2]/div[1]/div[2]/div",
+            "css": "#bargram-interval-Alcohol-0",
+            "startingPath": 1,
+            "siblings": 5,
+            "event": "mouseleave",
+            "info": null,
+            "leadsToState": 0
+        }
+    ],
+    [
+        {
+            "xpath": "/html[1]/body[1]/main[1]/div[4]/div[1]/div[1]/div[2]/div[1]/div[4]/div",
+            "css": "#bargram-selector-Alcohol div.values-container div.value.slider",
+            "startingPath": 2,
+            "siblings": 4,
+            "event": "mousedown",
+            "info": null,
+            "leadsToState": 3
+        }
+    ],
+    [
+        {
+            "xpath": "/html[1]/body[1]/main[1]/div[4]/div[1]/div[1]/div[2]/div[2]/div[2]/div",
+            "css": "#boxplot-interval-Alcohol-0",
+            "startingPath": 3,
+            "siblings": 5,
+            "event": "mouseenter",
+            "info": null,
+            "leadsToState": 4
+        },
+        {
+            "xpath": "/html[1]/body[1]/main[1]/div[4]/div[1]/div[1]/div[2]/div[2]/div[2]/div",
+            "css": "#boxplot-interval-Alcohol-0",
+            "startingPath": 3,
+            "siblings": 5,
+            "event": "click",
+            "info": [
+                2,
+                10
+            ],
+            "leadsToState": 4
+        }
+    ],
+    [
+        {
+            "xpath": "/html[1]/body[1]/main[1]/div[4]/div[1]/div[1]/div[2]/div[2]/div[2]/div",
+            "css": "#boxplot-interval-Alcohol-0",
+            "startingPath": 3,
+            "siblings": 5,
+            "event": "mouseenter",
+            "info": null,
+            "leadsToState": 4
+        },
+        {
+            "xpath": "/html[1]/body[1]/main[1]/div[4]/div[1]/div[1]/div[2]/div[2]/div[2]/div",
+            "css": "#boxplot-interval-Alcohol-0",
+            "startingPath": 3,
+            "siblings": 5,
+            "event": "mouseleave",
+            "info": null,
+            "leadsToState": 0
+        }
+    ],
+    [
+        {
+            "xpath": "/html[1]/body[1]/main[1]/div[4]/div[1]/div[3]/div[2]/div[1]/div[2]/div",
+            "css": "#bargram-interval-Malicacid-0",
+            "startingPath": 1,
+            "siblings": 5,
+            "event": "mouseenter",
+            "info": null,
+            "leadsToState": 5
+        },
+        {
+            "xpath": "/html[1]/body[1]/main[1]/div[4]/div[1]/div[3]/div[2]/div[1]/div[2]/div",
+            "css": "#bargram-interval-Malicacid-0",
+            "startingPath": 1,
+            "siblings": 5,
+            "event": "click",
+            "info": [
+                4,
+                23
+            ],
+            "leadsToState": 5
+        }
+    ],
+    [
+        {
+            "xpath": "/html[1]/body[1]/main[1]/div[4]/div[1]/div[3]/div[2]/div[1]/div[2]/div",
+            "css": "#bargram-interval-Malicacid-0",
+            "startingPath": 1,
+            "siblings": 5,
+            "event": "mouseenter",
+            "info": null,
+            "leadsToState": 5
+        },
+        {
+            "xpath": "/html[1]/body[1]/main[1]/div[4]/div[1]/div[3]/div[2]/div[1]/div[2]/div",
+            "css": "#bargram-interval-Malicacid-0",
+            "startingPath": 1,
+            "siblings": 5,
+            "event": "mouseleave",
+            "info": null,
+            "leadsToState": 0
+        }
+    ],
+    [
+        {
+            "xpath": "/html[1]/body[1]/main[1]/div[4]/div[1]/div[3]/div[2]/div[1]/div[4]/div",
+            "css": "#bargram-selector-Malicacid div.values-container div.value.slider",
+            "startingPath": 2,
+            "siblings": 4,
+            "event": "mousedown",
+            "info": null,
+            "leadsToState": 6
+        }
+    ],
+    [
+        {
+            "xpath": "/html[1]/body[1]/main[1]/div[4]/div[1]/div[3]/div[2]/div[2]/div[2]/div",
+            "css": "#boxplot-interval-Malicacid-0",
+            "startingPath": 3,
+            "siblings": 5,
+            "event": "mouseenter",
+            "info": null,
+            "leadsToState": 7
+        },
+        {
+            "xpath": "/html[1]/body[1]/main[1]/div[4]/div[1]/div[3]/div[2]/div[2]/div[2]/div",
+            "css": "#boxplot-interval-Malicacid-0",
+            "startingPath": 3,
+            "siblings": 5,
+            "event": "click",
+            "info": [
+                1,
+                9
+            ],
+            "leadsToState": 7
+        }
+    ],
+    [
+        {
+            "xpath": "/html[1]/body[1]/main[1]/div[4]/div[1]/div[3]/div[2]/div[2]/div[2]/div",
+            "css": "#boxplot-interval-Malicacid-0",
+            "startingPath": 3,
+            "siblings": 5,
+            "event": "mouseenter",
+            "info": null,
+            "leadsToState": 7
+        },
+        {
+            "xpath": "/html[1]/body[1]/main[1]/div[4]/div[1]/div[3]/div[2]/div[2]/div[2]/div",
+            "css": "#boxplot-interval-Malicacid-0",
+            "startingPath": 3,
+            "siblings": 5,
+            "event": "mouseleave",
+            "info": null,
+            "leadsToState": 0
+        }
+    ],
+    [
+        {
+            "xpath": "/html[1]/body[1]/main[1]/div[4]/div[1]/div[5]/div[2]/div[1]/div[2]/div",
+            "css": "#bargram-interval-Ash-0",
+            "startingPath": 1,
+            "siblings": 5,
+            "event": "mouseenter",
+            "info": null,
+            "leadsToState": 8
+        },
+        {
+            "xpath": "/html[1]/body[1]/main[1]/div[4]/div[1]/div[5]/div[2]/div[1]/div[2]/div",
+            "css": "#bargram-interval-Ash-0",
+            "startingPath": 1,
+            "siblings": 5,
+            "event": "click",
+            "info": [
+                7,
+                30
+            ],
+            "leadsToState": 8
+        }
+    ],
+    [
+        {
+            "xpath": "/html[1]/body[1]/main[1]/div[4]/div[1]/div[5]/div[2]/div[1]/div[2]/div",
+            "css": "#bargram-interval-Ash-0",
+            "startingPath": 1,
+            "siblings": 5,
+            "event": "mouseenter",
+            "info": null,
+            "leadsToState": 8
+        },
+        {
+            "xpath": "/html[1]/body[1]/main[1]/div[4]/div[1]/div[5]/div[2]/div[1]/div[2]/div",
+            "css": "#bargram-interval-Ash-0",
+            "startingPath": 1,
+            "siblings": 5,
+            "event": "mouseleave",
+            "info": null,
+            "leadsToState": 0
+        }
+    ],
+    [
+        {
+            "xpath": "/html[1]/body[1]/main[1]/div[4]/div[1]/div[5]/div[2]/div[1]/div[4]/div",
+            "css": "#bargram-selector-Ash div.values-container div.value.slider",
+            "startingPath": 2,
+            "siblings": 4,
+            "event": "mousedown",
+            "info": null,
+            "leadsToState": 9
+        }
+    ],
+    [
+        {
+            "xpath": "/html[1]/body[1]/main[1]/div[4]/div[1]/div[5]/div[2]/div[2]/div[2]/div",
+            "css": "#boxplot-interval-Ash-0",
+            "startingPath": 3,
+            "siblings": 5,
+            "event": "mouseenter",
+            "info": null,
+            "leadsToState": 10
+        },
+        {
+            "xpath": "/html[1]/body[1]/main[1]/div[4]/div[1]/div[5]/div[2]/div[2]/div[2]/div",
+            "css": "#boxplot-interval-Ash-0",
+            "startingPath": 3,
+            "siblings": 5,
+            "event": "click",
+            "info": [
+                11,
+                5
+            ],
+            "leadsToState": 10
+        }
+    ],
+    [
+        {
+            "xpath": "/html[1]/body[1]/main[1]/div[4]/div[1]/div[5]/div[2]/div[2]/div[2]/div",
+            "css": "#boxplot-interval-Ash-0",
+            "startingPath": 3,
+            "siblings": 5,
+            "event": "mouseenter",
+            "info": null,
+            "leadsToState": 10
+        },
+        {
+            "xpath": "/html[1]/body[1]/main[1]/div[4]/div[1]/div[5]/div[2]/div[2]/div[2]/div",
+            "css": "#boxplot-interval-Ash-0",
+            "startingPath": 3,
+            "siblings": 5,
+            "event": "mouseleave",
+            "info": null,
+            "leadsToState": 0
+        }
+    ],
+    [
+        {
+            "xpath": "/html[1]/body[1]/main[1]/div[4]/div[1]/div[7]/div[2]/div[1]/div[2]/div",
+            "css": "#bargram-interval-Alcalinityofash-0",
+            "startingPath": 1,
+            "siblings": 5,
+            "event": "mouseenter",
+            "info": null,
+            "leadsToState": 11
+        },
+        {
+            "xpath": "/html[1]/body[1]/main[1]/div[4]/div[1]/div[7]/div[2]/div[1]/div[2]/div",
+            "css": "#bargram-interval-Alcalinityofash-0",
+            "startingPath": 1,
+            "siblings": 5,
+            "event": "click",
+            "info": [
+                4,
+                9
+            ],
+            "leadsToState": 11
+        }
+    ],
+    [
+        {
+            "xpath": "/html[1]/body[1]/main[1]/div[4]/div[1]/div[7]/div[2]/div[1]/div[2]/div",
+            "css": "#bargram-interval-Alcalinityofash-0",
+            "startingPath": 1,
+            "siblings": 5,
+            "event": "mouseenter",
+            "info": null,
+            "leadsToState": 11
+        },
+        {
+            "xpath": "/html[1]/body[1]/main[1]/div[4]/div[1]/div[7]/div[2]/div[1]/div[2]/div",
+            "css": "#bargram-interval-Alcalinityofash-0",
+            "startingPath": 1,
+            "siblings": 5,
+            "event": "mouseleave",
+            "info": null,
+            "leadsToState": 0
+        }
+    ],
+    [
+        {
+            "xpath": "/html[1]/body[1]/main[1]/div[4]/div[1]/div[7]/div[2]/div[1]/div[4]/div",
+            "css": "#bargram-selector-Alcalinityofash div.values-container div.value.slider",
+            "startingPath": 2,
+            "siblings": 4,
+            "event": "mousedown",
+            "info": null,
+            "leadsToState": 12
+        }
+    ],
+    [
+        {
+            "xpath": "/html[1]/body[1]/main[1]/div[4]/div[1]/div[7]/div[2]/div[2]/div[2]/div",
+            "css": "#boxplot-interval-Alcalinityofash-0",
+            "startingPath": 3,
+            "siblings": 5,
+            "event": "mouseenter",
+            "info": null,
+            "leadsToState": 13
+        },
+        {
+            "xpath": "/html[1]/body[1]/main[1]/div[4]/div[1]/div[7]/div[2]/div[2]/div[2]/div",
+            "css": "#boxplot-interval-Alcalinityofash-0",
+            "startingPath": 3,
+            "siblings": 5,
+            "event": "click",
+            "info": [
+                4,
+                26
+            ],
+            "leadsToState": 13
+        }
+    ],
+    [
+        {
+            "xpath": "/html[1]/body[1]/main[1]/div[4]/div[1]/div[7]/div[2]/div[2]/div[2]/div",
+            "css": "#boxplot-interval-Alcalinityofash-0",
+            "startingPath": 3,
+            "siblings": 5,
+            "event": "mouseenter",
+            "info": null,
+            "leadsToState": 13
+        },
+        {
+            "xpath": "/html[1]/body[1]/main[1]/div[4]/div[1]/div[7]/div[2]/div[2]/div[2]/div",
+            "css": "#boxplot-interval-Alcalinityofash-0",
+            "startingPath": 3,
+            "siblings": 5,
+            "event": "mouseleave",
+            "info": null,
+            "leadsToState": 0
+        }
+    ],
+    [
+        {
+            "xpath": "/html[1]/body[1]/main[1]/span[1]",
+            "css": "#settings",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                8,
+                30
+            ],
+            "leadsToState": 14
+        },
+        {
+            "xpath": "/html[1]/body[1]/main[1]/div[8]/div[1]/div[1]/div[2]/div[1]/div[6]/div[1]/div[1]/div[15]/input[1]",
+            "css": "#metrics-list div.form-check input.form-check-input",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "change",
+            "info": null,
+            "leadsToState": 14
+        }
+    ],
+    [
+        {
+            "xpath": "/html[1]/body[1]/main[1]/span[1]",
+            "css": "#settings",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                2,
+                15
+            ],
+            "leadsToState": 14
+        },
+        {
+            "xpath": "/html[1]/body[1]/main[1]/div[8]/div[1]/div[1]/div[2]/div[1]/div[6]/div[1]/div[1]/div[14]/input[1]",
+            "css": "#metrics-list div.form-check input.form-check-input",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "change",
+            "info": null,
+            "leadsToState": 14
+        }
+    ],
+    [
+        {
+            "xpath": "/html[1]/body[1]/main[1]/span[1]",
+            "css": "#settings",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                20,
+                14
+            ],
+            "leadsToState": 14
+        },
+        {
+            "xpath": "/html[1]/body[1]/main[1]/div[8]/div[1]/div[1]/div[2]/div[1]/div[6]/div[1]/div[1]/div[13]/input[1]",
+            "css": "#metrics-list div.form-check input.form-check-input",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "change",
+            "info": null,
+            "leadsToState": 14
+        }
+    ],
+    [
+        {
+            "xpath": "/html[1]/body[1]/main[1]/span[1]",
+            "css": "#settings",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                6,
+                3
+            ],
+            "leadsToState": 14
+        },
+        {
+            "xpath": "/html[1]/body[1]/main[1]/div[8]/div[1]/div[1]/div[2]/div[1]/div[6]/div[1]/div[1]/div[12]/input[1]",
+            "css": "#metrics-list div.form-check input.form-check-input",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "change",
+            "info": null,
+            "leadsToState": 14
+        }
+    ],
+    [
+        {
+            "xpath": "/html[1]/body[1]/main[1]/span[1]",
+            "css": "#settings",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                9,
+                30
+            ],
+            "leadsToState": 14
+        },
+        {
+            "xpath": "/html[1]/body[1]/main[1]/div[8]/div[1]/div[1]/div[2]/div[1]/div[6]/div[1]/div[1]/div[11]/input[1]",
+            "css": "#metrics-list div.form-check input.form-check-input",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "change",
+            "info": null,
+            "leadsToState": 14
+        }
+    ],
+    [
+        {
+            "xpath": "/html[1]/body[1]/main[1]/span[1]",
+            "css": "#settings",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                20,
+                3
+            ],
+            "leadsToState": 14
+        },
+        {
+            "xpath": "/html[1]/body[1]/main[1]/div[8]/div[1]/div[1]/div[2]/div[1]/div[6]/div[1]/div[1]/div[10]/input[1]",
+            "css": "#metrics-list div.form-check input.form-check-input",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "change",
+            "info": null,
+            "leadsToState": 14
+        }
+    ],
+    [
+        {
+            "xpath": "/html[1]/body[1]/main[1]/span[1]",
+            "css": "#settings",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                5,
+                7
+            ],
+            "leadsToState": 14
+        },
+        {
+            "xpath": "/html[1]/body[1]/main[1]/div[8]/div[1]/div[1]/div[2]/div[1]/div[6]/div[1]/div[1]/div[9]/input[1]",
+            "css": "#metrics-list div.form-check input.form-check-input",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "change",
+            "info": null,
+            "leadsToState": 14
+        }
+    ],
+    [
+        {
+            "xpath": "/html[1]/body[1]/main[1]/span[1]",
+            "css": "#settings",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                17,
+                24
+            ],
+            "leadsToState": 14
+        },
+        {
+            "xpath": "/html[1]/body[1]/main[1]/div[8]/div[1]/div[1]/div[2]/div[1]/div[6]/div[1]/div[1]/div[8]/input[1]",
+            "css": "#metrics-list div.form-check input.form-check-input",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "change",
+            "info": null,
+            "leadsToState": 14
+        }
+    ],
+    [
+        {
+            "xpath": "/html[1]/body[1]/main[1]/span[1]",
+            "css": "#settings",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                27,
+                30
+            ],
+            "leadsToState": 14
+        },
+        {
+            "xpath": "/html[1]/body[1]/main[1]/div[8]/div[1]/div[1]/div[2]/div[1]/div[6]/div[1]/div[1]/div[7]/input[1]",
+            "css": "#metrics-list div.form-check input.form-check-input",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "change",
+            "info": null,
+            "leadsToState": 14
+        }
+    ],
+    [
+        {
+            "xpath": "/html[1]/body[1]/main[1]/span[1]",
+            "css": "#settings",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                4,
+                12
+            ],
+            "leadsToState": 14
+        },
+        {
+            "xpath": "/html[1]/body[1]/main[1]/div[8]/div[1]/div[1]/div[2]/div[1]/div[6]/div[1]/div[1]/div[6]/input[1]",
+            "css": "#metrics-list div.form-check input.form-check-input",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "change",
+            "info": null,
+            "leadsToState": 14
+        }
+    ],
+    [
+        {
+            "xpath": "/html[1]/body[1]/main[1]/span[1]",
+            "css": "#settings",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                9,
+                15
+            ],
+            "leadsToState": 14
+        },
+        {
+            "xpath": "/html[1]/body[1]/main[1]/div[8]/div[1]/div[1]/div[2]/div[1]/div[6]/div[1]/div[1]/div[5]/input[1]",
+            "css": "#metrics-list div.form-check input.form-check-input",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "change",
+            "info": null,
+            "leadsToState": 14
+        }
+    ],
+    [
+        {
+            "xpath": "/html[1]/body[1]/main[1]/span[1]",
+            "css": "#settings",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                1,
+                8
+            ],
+            "leadsToState": 14
+        },
+        {
+            "xpath": "/html[1]/body[1]/main[1]/div[8]/div[1]/div[1]/div[2]/div[1]/div[6]/div[1]/div[1]/div[4]/input[1]",
+            "css": "#metrics-list div.form-check input.form-check-input",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "change",
+            "info": null,
+            "leadsToState": 14
+        }
+    ],
+    [
+        {
+            "xpath": "/html[1]/body[1]/main[1]/span[1]",
+            "css": "#settings",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                8,
+                18
+            ],
+            "leadsToState": 14
+        },
+        {
+            "xpath": "/html[1]/body[1]/main[1]/div[8]/div[1]/div[1]/div[2]/div[1]/div[6]/div[1]/div[1]/div[3]/input[1]",
+            "css": "#metrics-list div.form-check input.form-check-input",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "change",
+            "info": null,
+            "leadsToState": 14
+        }
+    ],
+    [
+        {
+            "xpath": "/html[1]/body[1]/main[1]/span[1]",
+            "css": "#settings",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                13,
+                23
+            ],
+            "leadsToState": 14
+        },
+        {
+            "xpath": "/html[1]/body[1]/main[1]/div[8]/div[1]/div[1]/div[2]/div[1]/div[6]/div[1]/div[1]/div[2]/input[1]",
+            "css": "#metrics-list div.form-check input.form-check-input",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "change",
+            "info": null,
+            "leadsToState": 14
+        }
+    ],
+    [
+        {
+            "xpath": "/html[1]/body[1]/main[1]/span[1]",
+            "css": "#settings",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                29,
+                13
+            ],
+            "leadsToState": 14
+        },
+        {
+            "xpath": "/html[1]/body[1]/main[1]/div[8]/div[1]/div[1]/div[2]/div[1]/div[6]/div[1]/div[1]/div[1]/input[1]",
+            "css": "#metrics-list div.form-check input.form-check-input",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "change",
+            "info": null,
+            "leadsToState": 14
+        }
+    ],
+    [
+        {
+            "xpath": "/html[1]/body[1]/main[1]/span[1]",
+            "css": "#settings",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                7,
+                28
+            ],
+            "leadsToState": 14
+        },
+        {
+            "xpath": "/html[1]/body[1]/main[1]/div[8]/div[1]/div[1]/div[2]/div[1]/div[5]/div[1]/div[2]/input[1]",
+            "css": "#boxplot-selector",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "change",
+            "info": null,
+            "leadsToState": 14
+        }
+    ],
+    [
+        {
+            "xpath": "/html[1]/body[1]/main[1]/span[1]",
+            "css": "#settings",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                6,
+                3
+            ],
+            "leadsToState": 14
+        },
+        {
+            "xpath": "/html[1]/body[1]/main[1]/div[8]/div[1]/div[1]/div[2]/div[1]/div[5]/div[1]/div[1]/input[1]",
+            "css": "#uniform-selector",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "change",
+            "info": null,
+            "leadsToState": 14
+        }
+    ],
+    [
+        {
+            "xpath": "/html[1]/body[1]/main[1]/span[1]",
+            "css": "#settings",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                25,
+                5
+            ],
+            "leadsToState": 14
+        },
+        {
+            "xpath": "/html[1]/body[1]/main[1]/div[8]/div[1]/div[1]/div[2]/div[1]/div[4]/div[1]/div[4]/input[1]",
+            "css": "#feedback-tooltip",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "change",
+            "info": null,
+            "leadsToState": 14
+        }
+    ],
+    [
+        {
+            "xpath": "/html[1]/body[1]/main[1]/span[1]",
+            "css": "#settings",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                28,
+                17
+            ],
+            "leadsToState": 14
+        },
+        {
+            "xpath": "/html[1]/body[1]/main[1]/div[8]/div[1]/div[1]/div[2]/div[1]/div[4]/div[1]/div[3]/input[1]",
+            "css": "#feedback-arrows",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "change",
+            "info": null,
+            "leadsToState": 14
+        }
+    ],
+    [
+        {
+            "xpath": "/html[1]/body[1]/main[1]/span[1]",
+            "css": "#settings",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                24,
+                15
+            ],
+            "leadsToState": 14
+        },
+        {
+            "xpath": "/html[1]/body[1]/main[1]/div[8]/div[1]/div[1]/div[2]/div[1]/div[4]/div[1]/div[2]/input[1]",
+            "css": "#feedback-coverage",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "change",
+            "info": null,
+            "leadsToState": 14
+        }
+    ],
+    [
+        {
+            "xpath": "/html[1]/body[1]/main[1]/span[1]",
+            "css": "#settings",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                6,
+                18
+            ],
+            "leadsToState": 14
+        },
+        {
+            "xpath": "/html[1]/body[1]/main[1]/div[8]/div[1]/div[1]/div[2]/div[1]/div[4]/div[1]/div[1]/input[1]",
+            "css": "#feedback-domain",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "change",
+            "info": null,
+            "leadsToState": 14
+        }
+    ],
+    [
+        {
+            "xpath": "/html[1]/body[1]/main[1]/span[1]",
+            "css": "#settings",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                15,
+                11
+            ],
+            "leadsToState": 14
+        },
+        {
+            "xpath": "/html[1]/body[1]/main[1]/div[8]/div[1]/div[1]/div[2]/div[1]/div[3]/div[1]/div[1]/input[1]",
+            "css": "#selectorOperationAnd",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "change",
+            "info": null,
+            "leadsToState": 14
+        }
+    ],
+    [
+        {
+            "xpath": "/html[1]/body[1]/main[1]/span[1]",
+            "css": "#settings",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                28,
+                1
+            ],
+            "leadsToState": 14
+        },
+        {
+            "xpath": "/html[1]/body[1]/main[1]/div[8]/div[1]/div[1]/div[2]/div[1]/div[2]/div[1]/div[2]/input[1]",
+            "css": "#blockOperationOr",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "change",
+            "info": null,
+            "leadsToState": 14
+        }
+    ],
+    [
+        {
+            "xpath": "/html[1]/body[1]/main[1]/span[1]",
+            "css": "#settings",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                12,
+                14
+            ],
+            "leadsToState": 14
+        },
+        {
+            "xpath": "/html[1]/body[1]/main[1]/div[8]/div[1]",
+            "css": "#modal-settings div.modal-dialog",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "mousedown",
+            "info": null,
+            "leadsToState": 14
+        }
+    ],
+    [
+        {
+            "xpath": "/html[1]/body[1]/main[1]/span[1]",
+            "css": "#settings",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                27,
+                28
+            ],
+            "leadsToState": 14
+        },
+        {
+            "xpath": "/html[1]/body[1]/main[1]/div[8]",
+            "css": "#modal-settings",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                551,
+                257
+            ],
+            "leadsToState": 15
+        },
+        {
+            "xpath": "/html[1]/body[1]/main[1]/div[6]/button[1]",
+            "css": "#deselect-all",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": null,
+            "leadsToState": 15
+        }
+    ],
+    [
+        {
+            "xpath": "/html[1]/body[1]/main[1]/span[1]",
+            "css": "#settings",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                18,
+                5
+            ],
+            "leadsToState": 14
+        },
+        {
+            "xpath": "/html[1]/body[1]/main[1]/div[8]",
+            "css": "#modal-settings",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                550,
+                244
+            ],
+            "leadsToState": 15
+        },
+        {
+            "xpath": "/html[1]/body[1]/main[1]/div[4]/div[1]/div[7]/div[1]/span[2]",
+            "css": "#selector-block-Alcalinityofash div.selector-block-title span.undo",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": null,
+            "leadsToState": 15
+        }
+    ],
+    [
+        {
+            "xpath": "/html[1]/body[1]/main[1]/span[1]",
+            "css": "#settings",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                14,
+                22
+            ],
+            "leadsToState": 14
+        },
+        {
+            "xpath": "/html[1]/body[1]/main[1]/div[8]",
+            "css": "#modal-settings",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                413,
+                439
+            ],
+            "leadsToState": 15
+        },
+        {
+            "xpath": "/html[1]/body[1]/main[1]/div[4]/div[1]/div[5]/div[1]/span[2]",
+            "css": "#selector-block-Ash div.selector-block-title span.undo",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": null,
+            "leadsToState": 15
+        }
+    ],
+    [
+        {
+            "xpath": "/html[1]/body[1]/main[1]/span[1]",
+            "css": "#settings",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                26,
+                4
+            ],
+            "leadsToState": 14
+        },
+        {
+            "xpath": "/html[1]/body[1]/main[1]/div[8]",
+            "css": "#modal-settings",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                509,
+                385
+            ],
+            "leadsToState": 15
+        },
+        {
+            "xpath": "/html[1]/body[1]/main[1]/div[4]/div[1]/div[3]/div[1]/span[2]",
+            "css": "#selector-block-Malicacid div.selector-block-title span.undo",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": null,
+            "leadsToState": 15
+        }
+    ],
+    [
+        {
+            "xpath": "/html[1]/body[1]/main[1]/span[1]",
+            "css": "#settings",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                1,
+                9
+            ],
+            "leadsToState": 14
+        },
+        {
+            "xpath": "/html[1]/body[1]/main[1]/div[8]",
+            "css": "#modal-settings",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                171,
+                26
+            ],
+            "leadsToState": 15
+        },
+        {
+            "xpath": "/html[1]/body[1]/main[1]/div[4]/div[1]/div[1]/div[1]/span[2]",
+            "css": "#selector-block-Alcohol div.selector-block-title span.undo",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": null,
+            "leadsToState": 15
+        }
+    ],
+    [
+        {
+            "xpath": "/html[1]/body[1]/main[1]/span[1]",
+            "css": "#settings",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                25,
+                15
+            ],
+            "leadsToState": 14
+        },
+        {
+            "xpath": "/html[1]/body[1]/main[1]/div[8]",
+            "css": "#modal-settings",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                717,
+                598
+            ],
+            "leadsToState": 15
+        },
+        {
+            "xpath": "/html[1]/body[1]/main[1]/div[2]/*[name()='svg'][1]/*[name()='g'][1]/*[name()='circle']",
+            "css": "#v-0",
+            "startingPath": 1,
+            "siblings": 177,
+            "event": "mouseenter",
+            "info": null,
+            "leadsToState": 16
+        },
+        {
+            "xpath": "/html[1]/body[1]/main[1]/div[2]/*[name()='svg'][1]/*[name()='g'][1]/*[name()='circle']",
+            "css": "#v-0",
+            "startingPath": 1,
+            "siblings": 177,
+            "event": "mouseleave",
+            "info": null,
+            "leadsToState": 15
+        }
+    ],
+    [
+        {
+            "xpath": "/html[1]/body[1]/main[1]/span[1]",
+            "css": "#settings",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                1,
+                5
+            ],
+            "leadsToState": 14
+        },
+        {
+            "xpath": "/html[1]/body[1]/main[1]/div[8]",
+            "css": "#modal-settings",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                2,
+                108
+            ],
+            "leadsToState": 15
+        },
+        {
+            "xpath": "/html[1]/body[1]/main[1]/div[4]/div[1]/div[1]/div[2]/div[1]/div[2]/div",
+            "css": "#bargram-interval-Alcohol-0",
+            "startingPath": 1,
+            "siblings": 5,
+            "event": "mouseenter",
+            "info": null,
+            "leadsToState": 17
+        },
+        {
+            "xpath": "/html[1]/body[1]/main[1]/div[4]/div[1]/div[1]/div[2]/div[1]/div[2]/div",
+            "css": "#bargram-interval-Alcohol-0",
+            "startingPath": 1,
+            "siblings": 5,
+            "event": "click",
+            "info": [
+                7,
+                10
+            ],
+            "leadsToState": 17
+        }
+    ],
+    [
+        {
+            "xpath": "/html[1]/body[1]/main[1]/span[1]",
+            "css": "#settings",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                30,
+                26
+            ],
+            "leadsToState": 14
+        },
+        {
+            "xpath": "/html[1]/body[1]/main[1]/div[8]",
+            "css": "#modal-settings",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                180,
+                127
+            ],
+            "leadsToState": 15
+        },
+        {
+            "xpath": "/html[1]/body[1]/main[1]/div[4]/div[1]/div[1]/div[2]/div[1]/div[2]/div",
+            "css": "#bargram-interval-Alcohol-0",
+            "startingPath": 1,
+            "siblings": 5,
+            "event": "mouseenter",
+            "info": null,
+            "leadsToState": 17
+        },
+        {
+            "xpath": "/html[1]/body[1]/main[1]/div[4]/div[1]/div[1]/div[2]/div[1]/div[2]/div",
+            "css": "#bargram-interval-Alcohol-0",
+            "startingPath": 1,
+            "siblings": 5,
+            "event": "mouseleave",
+            "info": null,
+            "leadsToState": 15
+        }
+    ],
+    [
+        {
+            "xpath": "/html[1]/body[1]/main[1]/span[1]",
+            "css": "#settings",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                30,
+                9
+            ],
+            "leadsToState": 14
+        },
+        {
+            "xpath": "/html[1]/body[1]/main[1]/div[8]",
+            "css": "#modal-settings",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                334,
+                238
+            ],
+            "leadsToState": 15
+        },
+        {
+            "xpath": "/html[1]/body[1]/main[1]/div[4]/div[1]/div[1]/div[2]/div[1]/div[4]/div",
+            "css": "#bargram-selector-Alcohol div.values-container div.value.slider",
+            "startingPath": 2,
+            "siblings": 4,
+            "event": "mousedown",
+            "info": null,
+            "leadsToState": 18
+        }
+    ],
+    [
+        {
+            "xpath": "/html[1]/body[1]/main[1]/span[1]",
+            "css": "#settings",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                5,
+                23
+            ],
+            "leadsToState": 14
+        },
+        {
+            "xpath": "/html[1]/body[1]/main[1]/div[8]",
+            "css": "#modal-settings",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                410,
+                139
+            ],
+            "leadsToState": 15
+        },
+        {
+            "xpath": "/html[1]/body[1]/main[1]/div[4]/div[1]/div[1]/div[2]/div[2]/div[2]/div",
+            "css": "#boxplot-interval-Alcohol-0",
+            "startingPath": 3,
+            "siblings": 5,
+            "event": "mouseenter",
+            "info": null,
+            "leadsToState": 19
+        },
+        {
+            "xpath": "/html[1]/body[1]/main[1]/div[4]/div[1]/div[1]/div[2]/div[2]/div[2]/div",
+            "css": "#boxplot-interval-Alcohol-0",
+            "startingPath": 3,
+            "siblings": 5,
+            "event": "click",
+            "info": [
+                4,
+                1
+            ],
+            "leadsToState": 19
+        }
+    ],
+    [
+        {
+            "xpath": "/html[1]/body[1]/main[1]/span[1]",
+            "css": "#settings",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                11,
+                2
+            ],
+            "leadsToState": 14
+        },
+        {
+            "xpath": "/html[1]/body[1]/main[1]/div[8]",
+            "css": "#modal-settings",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                185,
+                308
+            ],
+            "leadsToState": 15
+        },
+        {
+            "xpath": "/html[1]/body[1]/main[1]/div[4]/div[1]/div[1]/div[2]/div[2]/div[2]/div",
+            "css": "#boxplot-interval-Alcohol-0",
+            "startingPath": 3,
+            "siblings": 5,
+            "event": "mouseenter",
+            "info": null,
+            "leadsToState": 19
+        },
+        {
+            "xpath": "/html[1]/body[1]/main[1]/div[4]/div[1]/div[1]/div[2]/div[2]/div[2]/div",
+            "css": "#boxplot-interval-Alcohol-0",
+            "startingPath": 3,
+            "siblings": 5,
+            "event": "mouseleave",
+            "info": null,
+            "leadsToState": 15
+        }
+    ],
+    [
+        {
+            "xpath": "/html[1]/body[1]/main[1]/span[1]",
+            "css": "#settings",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                11,
+                3
+            ],
+            "leadsToState": 14
+        },
+        {
+            "xpath": "/html[1]/body[1]/main[1]/div[8]",
+            "css": "#modal-settings",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                724,
+                487
+            ],
+            "leadsToState": 15
+        },
+        {
+            "xpath": "/html[1]/body[1]/main[1]/div[4]/div[1]/div[3]/div[2]/div[1]/div[2]/div",
+            "css": "#bargram-interval-Malicacid-0",
+            "startingPath": 1,
+            "siblings": 5,
+            "event": "mouseenter",
+            "info": null,
+            "leadsToState": 20
+        },
+        {
+            "xpath": "/html[1]/body[1]/main[1]/div[4]/div[1]/div[3]/div[2]/div[1]/div[2]/div",
+            "css": "#bargram-interval-Malicacid-0",
+            "startingPath": 1,
+            "siblings": 5,
+            "event": "click",
+            "info": [
+                2,
+                28
+            ],
+            "leadsToState": 20
+        }
+    ],
+    [
+        {
+            "xpath": "/html[1]/body[1]/main[1]/span[1]",
+            "css": "#settings",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                2,
+                27
+            ],
+            "leadsToState": 14
+        },
+        {
+            "xpath": "/html[1]/body[1]/main[1]/div[8]",
+            "css": "#modal-settings",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                192,
+                516
+            ],
+            "leadsToState": 15
+        },
+        {
+            "xpath": "/html[1]/body[1]/main[1]/div[4]/div[1]/div[3]/div[2]/div[1]/div[2]/div",
+            "css": "#bargram-interval-Malicacid-0",
+            "startingPath": 1,
+            "siblings": 5,
+            "event": "mouseenter",
+            "info": null,
+            "leadsToState": 20
+        },
+        {
+            "xpath": "/html[1]/body[1]/main[1]/div[4]/div[1]/div[3]/div[2]/div[1]/div[2]/div",
+            "css": "#bargram-interval-Malicacid-0",
+            "startingPath": 1,
+            "siblings": 5,
+            "event": "mouseleave",
+            "info": null,
+            "leadsToState": 15
+        }
+    ],
+    [
+        {
+            "xpath": "/html[1]/body[1]/main[1]/span[1]",
+            "css": "#settings",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                14,
+                8
+            ],
+            "leadsToState": 14
+        },
+        {
+            "xpath": "/html[1]/body[1]/main[1]/div[8]",
+            "css": "#modal-settings",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                138,
+                533
+            ],
+            "leadsToState": 15
+        },
+        {
+            "xpath": "/html[1]/body[1]/main[1]/div[4]/div[1]/div[3]/div[2]/div[1]/div[4]/div",
+            "css": "#bargram-selector-Malicacid div.values-container div.value.slider",
+            "startingPath": 2,
+            "siblings": 4,
+            "event": "mousedown",
+            "info": null,
+            "leadsToState": 21
+        }
+    ],
+    [
+        {
+            "xpath": "/html[1]/body[1]/main[1]/span[1]",
+            "css": "#settings",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                25,
+                1
+            ],
+            "leadsToState": 14
+        },
+        {
+            "xpath": "/html[1]/body[1]/main[1]/div[8]",
+            "css": "#modal-settings",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                153,
+                355
+            ],
+            "leadsToState": 15
+        },
+        {
+            "xpath": "/html[1]/body[1]/main[1]/div[4]/div[1]/div[3]/div[2]/div[2]/div[2]/div",
+            "css": "#boxplot-interval-Malicacid-0",
+            "startingPath": 3,
+            "siblings": 5,
+            "event": "mouseenter",
+            "info": null,
+            "leadsToState": 22
+        },
+        {
+            "xpath": "/html[1]/body[1]/main[1]/div[4]/div[1]/div[3]/div[2]/div[2]/div[2]/div",
+            "css": "#boxplot-interval-Malicacid-0",
+            "startingPath": 3,
+            "siblings": 5,
+            "event": "click",
+            "info": [
+                2,
+                7
+            ],
+            "leadsToState": 22
+        }
+    ],
+    [
+        {
+            "xpath": "/html[1]/body[1]/main[1]/span[1]",
+            "css": "#settings",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                24,
+                2
+            ],
+            "leadsToState": 14
+        },
+        {
+            "xpath": "/html[1]/body[1]/main[1]/div[8]",
+            "css": "#modal-settings",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                768,
+                577
+            ],
+            "leadsToState": 15
+        },
+        {
+            "xpath": "/html[1]/body[1]/main[1]/div[4]/div[1]/div[3]/div[2]/div[2]/div[2]/div",
+            "css": "#boxplot-interval-Malicacid-0",
+            "startingPath": 3,
+            "siblings": 5,
+            "event": "mouseenter",
+            "info": null,
+            "leadsToState": 22
+        },
+        {
+            "xpath": "/html[1]/body[1]/main[1]/div[4]/div[1]/div[3]/div[2]/div[2]/div[2]/div",
+            "css": "#boxplot-interval-Malicacid-0",
+            "startingPath": 3,
+            "siblings": 5,
+            "event": "mouseleave",
+            "info": null,
+            "leadsToState": 15
+        }
+    ],
+    [
+        {
+            "xpath": "/html[1]/body[1]/main[1]/span[1]",
+            "css": "#settings",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                12,
+                10
+            ],
+            "leadsToState": 14
+        },
+        {
+            "xpath": "/html[1]/body[1]/main[1]/div[8]",
+            "css": "#modal-settings",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                581,
+                355
+            ],
+            "leadsToState": 15
+        },
+        {
+            "xpath": "/html[1]/body[1]/main[1]/div[4]/div[1]/div[5]/div[2]/div[1]/div[2]/div",
+            "css": "#bargram-interval-Ash-0",
+            "startingPath": 1,
+            "siblings": 5,
+            "event": "mouseenter",
+            "info": null,
+            "leadsToState": 23
+        },
+        {
+            "xpath": "/html[1]/body[1]/main[1]/div[4]/div[1]/div[5]/div[2]/div[1]/div[2]/div",
+            "css": "#bargram-interval-Ash-0",
+            "startingPath": 1,
+            "siblings": 5,
+            "event": "click",
+            "info": [
+                8,
+                8
+            ],
+            "leadsToState": 23
+        }
+    ],
+    [
+        {
+            "xpath": "/html[1]/body[1]/main[1]/span[1]",
+            "css": "#settings",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                13,
+                24
+            ],
+            "leadsToState": 14
+        },
+        {
+            "xpath": "/html[1]/body[1]/main[1]/div[8]",
+            "css": "#modal-settings",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                150,
+                356
+            ],
+            "leadsToState": 15
+        },
+        {
+            "xpath": "/html[1]/body[1]/main[1]/div[4]/div[1]/div[5]/div[2]/div[1]/div[2]/div",
+            "css": "#bargram-interval-Ash-0",
+            "startingPath": 1,
+            "siblings": 5,
+            "event": "mouseenter",
+            "info": null,
+            "leadsToState": 23
+        },
+        {
+            "xpath": "/html[1]/body[1]/main[1]/div[4]/div[1]/div[5]/div[2]/div[1]/div[2]/div",
+            "css": "#bargram-interval-Ash-0",
+            "startingPath": 1,
+            "siblings": 5,
+            "event": "mouseleave",
+            "info": null,
+            "leadsToState": 15
+        }
+    ],
+    [
+        {
+            "xpath": "/html[1]/body[1]/main[1]/span[1]",
+            "css": "#settings",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                24,
+                27
+            ],
+            "leadsToState": 14
+        },
+        {
+            "xpath": "/html[1]/body[1]/main[1]/div[8]",
+            "css": "#modal-settings",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                394,
+                542
+            ],
+            "leadsToState": 15
+        },
+        {
+            "xpath": "/html[1]/body[1]/main[1]/div[4]/div[1]/div[5]/div[2]/div[1]/div[4]/div",
+            "css": "#bargram-selector-Ash div.values-container div.value.slider",
+            "startingPath": 2,
+            "siblings": 4,
+            "event": "mousedown",
+            "info": null,
+            "leadsToState": 24
+        }
+    ],
+    [
+        {
+            "xpath": "/html[1]/body[1]/main[1]/span[1]",
+            "css": "#settings",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                26,
+                29
+            ],
+            "leadsToState": 14
+        },
+        {
+            "xpath": "/html[1]/body[1]/main[1]/div[8]",
+            "css": "#modal-settings",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                452,
+                356
+            ],
+            "leadsToState": 15
+        },
+        {
+            "xpath": "/html[1]/body[1]/main[1]/div[4]/div[1]/div[5]/div[2]/div[2]/div[2]/div",
+            "css": "#boxplot-interval-Ash-0",
+            "startingPath": 3,
+            "siblings": 5,
+            "event": "mouseenter",
+            "info": null,
+            "leadsToState": 25
+        },
+        {
+            "xpath": "/html[1]/body[1]/main[1]/div[4]/div[1]/div[5]/div[2]/div[2]/div[2]/div",
+            "css": "#boxplot-interval-Ash-0",
+            "startingPath": 3,
+            "siblings": 5,
+            "event": "click",
+            "info": [
+                6,
+                8
+            ],
+            "leadsToState": 25
+        }
+    ],
+    [
+        {
+            "xpath": "/html[1]/body[1]/main[1]/span[1]",
+            "css": "#settings",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                13,
+                14
+            ],
+            "leadsToState": 14
+        },
+        {
+            "xpath": "/html[1]/body[1]/main[1]/div[8]",
+            "css": "#modal-settings",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                446,
+                243
+            ],
+            "leadsToState": 15
+        },
+        {
+            "xpath": "/html[1]/body[1]/main[1]/div[4]/div[1]/div[5]/div[2]/div[2]/div[2]/div",
+            "css": "#boxplot-interval-Ash-0",
+            "startingPath": 3,
+            "siblings": 5,
+            "event": "mouseenter",
+            "info": null,
+            "leadsToState": 25
+        },
+        {
+            "xpath": "/html[1]/body[1]/main[1]/div[4]/div[1]/div[5]/div[2]/div[2]/div[2]/div",
+            "css": "#boxplot-interval-Ash-0",
+            "startingPath": 3,
+            "siblings": 5,
+            "event": "mouseleave",
+            "info": null,
+            "leadsToState": 15
+        }
+    ],
+    [
+        {
+            "xpath": "/html[1]/body[1]/main[1]/span[1]",
+            "css": "#settings",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                5,
+                30
+            ],
+            "leadsToState": 14
+        },
+        {
+            "xpath": "/html[1]/body[1]/main[1]/div[8]",
+            "css": "#modal-settings",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                245,
+                137
+            ],
+            "leadsToState": 15
+        },
+        {
+            "xpath": "/html[1]/body[1]/main[1]/div[4]/div[1]/div[7]/div[2]/div[1]/div[2]/div",
+            "css": "#bargram-interval-Alcalinityofash-0",
+            "startingPath": 1,
+            "siblings": 5,
+            "event": "mouseenter",
+            "info": null,
+            "leadsToState": 26
+        },
+        {
+            "xpath": "/html[1]/body[1]/main[1]/div[4]/div[1]/div[7]/div[2]/div[1]/div[2]/div",
+            "css": "#bargram-interval-Alcalinityofash-0",
+            "startingPath": 1,
+            "siblings": 5,
+            "event": "click",
+            "info": [
+                4,
+                4
+            ],
+            "leadsToState": 26
+        }
+    ],
+    [
+        {
+            "xpath": "/html[1]/body[1]/main[1]/span[1]",
+            "css": "#settings",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                22,
+                7
+            ],
+            "leadsToState": 14
+        },
+        {
+            "xpath": "/html[1]/body[1]/main[1]/div[8]",
+            "css": "#modal-settings",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                561,
+                351
+            ],
+            "leadsToState": 15
+        },
+        {
+            "xpath": "/html[1]/body[1]/main[1]/div[4]/div[1]/div[7]/div[2]/div[1]/div[2]/div",
+            "css": "#bargram-interval-Alcalinityofash-0",
+            "startingPath": 1,
+            "siblings": 5,
+            "event": "mouseenter",
+            "info": null,
+            "leadsToState": 26
+        },
+        {
+            "xpath": "/html[1]/body[1]/main[1]/div[4]/div[1]/div[7]/div[2]/div[1]/div[2]/div",
+            "css": "#bargram-interval-Alcalinityofash-0",
+            "startingPath": 1,
+            "siblings": 5,
+            "event": "mouseleave",
+            "info": null,
+            "leadsToState": 15
+        }
+    ],
+    [
+        {
+            "xpath": "/html[1]/body[1]/main[1]/span[1]",
+            "css": "#settings",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                10,
+                13
+            ],
+            "leadsToState": 14
+        },
+        {
+            "xpath": "/html[1]/body[1]/main[1]/div[8]",
+            "css": "#modal-settings",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                521,
+                554
+            ],
+            "leadsToState": 15
+        },
+        {
+            "xpath": "/html[1]/body[1]/main[1]/div[4]/div[1]/div[7]/div[2]/div[1]/div[4]/div",
+            "css": "#bargram-selector-Alcalinityofash div.values-container div.value.slider",
+            "startingPath": 2,
+            "siblings": 4,
+            "event": "mousedown",
+            "info": null,
+            "leadsToState": 27
+        }
+    ],
+    [
+        {
+            "xpath": "/html[1]/body[1]/main[1]/span[1]",
+            "css": "#settings",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                21,
+                20
+            ],
+            "leadsToState": 14
+        },
+        {
+            "xpath": "/html[1]/body[1]/main[1]/div[8]",
+            "css": "#modal-settings",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                389,
+                163
+            ],
+            "leadsToState": 15
+        },
+        {
+            "xpath": "/html[1]/body[1]/main[1]/div[4]/div[1]/div[7]/div[2]/div[2]/div[2]/div",
+            "css": "#boxplot-interval-Alcalinityofash-0",
+            "startingPath": 3,
+            "siblings": 5,
+            "event": "mouseenter",
+            "info": null,
+            "leadsToState": 28
+        },
+        {
+            "xpath": "/html[1]/body[1]/main[1]/div[4]/div[1]/div[7]/div[2]/div[2]/div[2]/div",
+            "css": "#boxplot-interval-Alcalinityofash-0",
+            "startingPath": 3,
+            "siblings": 5,
+            "event": "click",
+            "info": [
+                5,
+                19
+            ],
+            "leadsToState": 28
+        }
+    ],
+    [
+        {
+            "xpath": "/html[1]/body[1]/main[1]/span[1]",
+            "css": "#settings",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                13,
+                10
+            ],
+            "leadsToState": 14
+        },
+        {
+            "xpath": "/html[1]/body[1]/main[1]/div[8]",
+            "css": "#modal-settings",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                497,
+                278
+            ],
+            "leadsToState": 15
+        },
+        {
+            "xpath": "/html[1]/body[1]/main[1]/div[4]/div[1]/div[7]/div[2]/div[2]/div[2]/div",
+            "css": "#boxplot-interval-Alcalinityofash-0",
+            "startingPath": 3,
+            "siblings": 5,
+            "event": "mouseenter",
+            "info": null,
+            "leadsToState": 28
+        },
+        {
+            "xpath": "/html[1]/body[1]/main[1]/div[4]/div[1]/div[7]/div[2]/div[2]/div[2]/div",
+            "css": "#boxplot-interval-Alcalinityofash-0",
+            "startingPath": 3,
+            "siblings": 5,
+            "event": "mouseleave",
+            "info": null,
+            "leadsToState": 15
+        }
+    ],
+    [
+        {
+            "xpath": "/html[1]/body[1]/main[1]/span[1]",
+            "css": "#settings",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                19,
+                23
+            ],
+            "leadsToState": 14
+        },
+        {
+            "xpath": "/html[1]/body[1]/main[1]/div[8]",
+            "css": "#modal-settings",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                451,
+                449
+            ],
+            "leadsToState": 15
+        },
+        {
+            "xpath": "/html[1]/body[1]/main[1]/span[1]",
+            "css": "#settings",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                17,
+                25
+            ],
+            "leadsToState": 14
+        }
+    ],
+    [
+        {
+            "xpath": "/html[1]/body[1]/main[1]/span[1]",
+            "css": "#settings",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                10,
+                28
+            ],
+            "leadsToState": 14
+        },
+        {
+            "xpath": "/html[1]/body[1]/main[1]/div[8]/div[1]/div[1]/div[1]/button[1]",
+            "css": "#modal-settings div.modal-dialog div.modal-content div.modal-header button.close",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": null,
+            "leadsToState": 15
+        }
+    ],
+    [
+        {
+            "xpath": "/html[1]/body[1]/main[1]/span[1]",
+            "css": "#settings",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                21,
+                9
+            ],
+            "leadsToState": 14
+        },
+        {
+            "xpath": "/html[1]/body[1]/main[1]/div[8]/div[1]/div[1]/div[2]/div[1]/div[6]/div[1]/div[1]/div[15]/input[1]",
+            "css": "#metrics-list div.form-check input.form-check-input",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "change",
+            "info": null,
+            "leadsToState": 29
+        }
+    ],
+    [
+        {
+            "xpath": "/html[1]/body[1]/main[1]/span[1]",
+            "css": "#settings",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                18,
+                20
+            ],
+            "leadsToState": 14
+        },
+        {
+            "xpath": "/html[1]/body[1]/main[1]/div[8]/div[1]/div[1]/div[2]/div[1]/div[6]/div[1]/div[1]/div[14]/input[1]",
+            "css": "#metrics-list div.form-check input.form-check-input",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "change",
+            "info": null,
+            "leadsToState": 29
+        }
+    ],
+    [
+        {
+            "xpath": "/html[1]/body[1]/main[1]/span[1]",
+            "css": "#settings",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                16,
+                20
+            ],
+            "leadsToState": 14
+        },
+        {
+            "xpath": "/html[1]/body[1]/main[1]/div[8]/div[1]/div[1]/div[2]/div[1]/div[6]/div[1]/div[1]/div[13]/input[1]",
+            "css": "#metrics-list div.form-check input.form-check-input",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "change",
+            "info": null,
+            "leadsToState": 29
+        }
+    ],
+    [
+        {
+            "xpath": "/html[1]/body[1]/main[1]/span[1]",
+            "css": "#settings",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                4,
+                2
+            ],
+            "leadsToState": 14
+        },
+        {
+            "xpath": "/html[1]/body[1]/main[1]/div[8]/div[1]/div[1]/div[2]/div[1]/div[6]/div[1]/div[1]/div[12]/input[1]",
+            "css": "#metrics-list div.form-check input.form-check-input",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "change",
+            "info": null,
+            "leadsToState": 29
+        }
+    ],
+    [
+        {
+            "xpath": "/html[1]/body[1]/main[1]/span[1]",
+            "css": "#settings",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                8,
+                25
+            ],
+            "leadsToState": 14
+        },
+        {
+            "xpath": "/html[1]/body[1]/main[1]/div[8]/div[1]/div[1]/div[2]/div[1]/div[6]/div[1]/div[1]/div[11]/input[1]",
+            "css": "#metrics-list div.form-check input.form-check-input",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "change",
+            "info": null,
+            "leadsToState": 29
+        }
+    ],
+    [
+        {
+            "xpath": "/html[1]/body[1]/main[1]/span[1]",
+            "css": "#settings",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                11,
+                21
+            ],
+            "leadsToState": 14
+        },
+        {
+            "xpath": "/html[1]/body[1]/main[1]/div[8]/div[1]/div[1]/div[2]/div[1]/div[6]/div[1]/div[1]/div[10]/input[1]",
+            "css": "#metrics-list div.form-check input.form-check-input",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "change",
+            "info": null,
+            "leadsToState": 29
+        }
+    ],
+    [
+        {
+            "xpath": "/html[1]/body[1]/main[1]/span[1]",
+            "css": "#settings",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                7,
+                21
+            ],
+            "leadsToState": 14
+        },
+        {
+            "xpath": "/html[1]/body[1]/main[1]/div[8]/div[1]/div[1]/div[2]/div[1]/div[6]/div[1]/div[1]/div[9]/input[1]",
+            "css": "#metrics-list div.form-check input.form-check-input",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "change",
+            "info": null,
+            "leadsToState": 29
+        }
+    ],
+    [
+        {
+            "xpath": "/html[1]/body[1]/main[1]/span[1]",
+            "css": "#settings",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                10,
+                20
+            ],
+            "leadsToState": 14
+        },
+        {
+            "xpath": "/html[1]/body[1]/main[1]/div[8]/div[1]/div[1]/div[2]/div[1]/div[6]/div[1]/div[1]/div[8]/input[1]",
+            "css": "#metrics-list div.form-check input.form-check-input",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "change",
+            "info": null,
+            "leadsToState": 29
+        }
+    ],
+    [
+        {
+            "xpath": "/html[1]/body[1]/main[1]/span[1]",
+            "css": "#settings",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                5,
+                23
+            ],
+            "leadsToState": 14
+        },
+        {
+            "xpath": "/html[1]/body[1]/main[1]/div[8]/div[1]/div[1]/div[2]/div[1]/div[6]/div[1]/div[1]/div[7]/input[1]",
+            "css": "#metrics-list div.form-check input.form-check-input",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "change",
+            "info": null,
+            "leadsToState": 29
+        }
+    ],
+    [
+        {
+            "xpath": "/html[1]/body[1]/main[1]/span[1]",
+            "css": "#settings",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                24,
+                5
+            ],
+            "leadsToState": 14
+        },
+        {
+            "xpath": "/html[1]/body[1]/main[1]/div[8]/div[1]/div[1]/div[2]/div[1]/div[6]/div[1]/div[1]/div[6]/input[1]",
+            "css": "#metrics-list div.form-check input.form-check-input",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "change",
+            "info": null,
+            "leadsToState": 29
+        }
+    ],
+    [
+        {
+            "xpath": "/html[1]/body[1]/main[1]/span[1]",
+            "css": "#settings",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                14,
+                12
+            ],
+            "leadsToState": 14
+        },
+        {
+            "xpath": "/html[1]/body[1]/main[1]/div[8]/div[1]/div[1]/div[2]/div[1]/div[6]/div[1]/div[1]/div[5]/input[1]",
+            "css": "#metrics-list div.form-check input.form-check-input",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "change",
+            "info": null,
+            "leadsToState": 29
+        }
+    ],
+    [
+        {
+            "xpath": "/html[1]/body[1]/main[1]/span[1]",
+            "css": "#settings",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                17,
+                16
+            ],
+            "leadsToState": 14
+        },
+        {
+            "xpath": "/html[1]/body[1]/main[1]/div[8]/div[1]/div[1]/div[2]/div[1]/div[6]/div[1]/div[1]/div[4]/input[1]",
+            "css": "#metrics-list div.form-check input.form-check-input",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "change",
+            "info": null,
+            "leadsToState": 29
+        }
+    ],
+    [
+        {
+            "xpath": "/html[1]/body[1]/main[1]/span[1]",
+            "css": "#settings",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                10,
+                14
+            ],
+            "leadsToState": 14
+        },
+        {
+            "xpath": "/html[1]/body[1]/main[1]/div[8]/div[1]/div[1]/div[2]/div[1]/div[6]/div[1]/div[1]/div[3]/input[1]",
+            "css": "#metrics-list div.form-check input.form-check-input",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "change",
+            "info": null,
+            "leadsToState": 29
+        }
+    ],
+    [
+        {
+            "xpath": "/html[1]/body[1]/main[1]/span[1]",
+            "css": "#settings",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                29,
+                3
+            ],
+            "leadsToState": 14
+        },
+        {
+            "xpath": "/html[1]/body[1]/main[1]/div[8]/div[1]/div[1]/div[2]/div[1]/div[6]/div[1]/div[1]/div[2]/input[1]",
+            "css": "#metrics-list div.form-check input.form-check-input",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "change",
+            "info": null,
+            "leadsToState": 29
+        }
+    ],
+    [
+        {
+            "xpath": "/html[1]/body[1]/main[1]/span[1]",
+            "css": "#settings",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                23,
+                25
+            ],
+            "leadsToState": 14
+        },
+        {
+            "xpath": "/html[1]/body[1]/main[1]/div[8]/div[1]/div[1]/div[2]/div[1]/div[6]/div[1]/div[1]/div[1]/input[1]",
+            "css": "#metrics-list div.form-check input.form-check-input",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "change",
+            "info": null,
+            "leadsToState": 29
+        }
+    ],
+    [
+        {
+            "xpath": "/html[1]/body[1]/main[1]/span[1]",
+            "css": "#settings",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                15,
+                23
+            ],
+            "leadsToState": 14
+        },
+        {
+            "xpath": "/html[1]/body[1]/main[1]/div[8]/div[1]/div[1]/div[2]/div[1]/div[5]/div[1]/div[2]/input[1]",
+            "css": "#boxplot-selector",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "change",
+            "info": null,
+            "leadsToState": 29
+        }
+    ],
+    [
+        {
+            "xpath": "/html[1]/body[1]/main[1]/span[1]",
+            "css": "#settings",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                20,
+                1
+            ],
+            "leadsToState": 14
+        },
+        {
+            "xpath": "/html[1]/body[1]/main[1]/div[8]/div[1]/div[1]/div[2]/div[1]/div[5]/div[1]/div[1]/input[1]",
+            "css": "#uniform-selector",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "change",
+            "info": null,
+            "leadsToState": 29
+        }
+    ],
+    [
+        {
+            "xpath": "/html[1]/body[1]/main[1]/span[1]",
+            "css": "#settings",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                6,
+                15
+            ],
+            "leadsToState": 14
+        },
+        {
+            "xpath": "/html[1]/body[1]/main[1]/div[8]/div[1]/div[1]/div[2]/div[1]/div[4]/div[1]/div[4]/input[1]",
+            "css": "#feedback-tooltip",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "change",
+            "info": null,
+            "leadsToState": 29
+        }
+    ],
+    [
+        {
+            "xpath": "/html[1]/body[1]/main[1]/span[1]",
+            "css": "#settings",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                7,
+                22
+            ],
+            "leadsToState": 14
+        },
+        {
+            "xpath": "/html[1]/body[1]/main[1]/div[8]/div[1]/div[1]/div[2]/div[1]/div[4]/div[1]/div[3]/input[1]",
+            "css": "#feedback-arrows",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "change",
+            "info": null,
+            "leadsToState": 29
+        }
+    ],
+    [
+        {
+            "xpath": "/html[1]/body[1]/main[1]/span[1]",
+            "css": "#settings",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                11,
+                6
+            ],
+            "leadsToState": 14
+        },
+        {
+            "xpath": "/html[1]/body[1]/main[1]/div[8]/div[1]/div[1]/div[2]/div[1]/div[4]/div[1]/div[2]/input[1]",
+            "css": "#feedback-coverage",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "change",
+            "info": null,
+            "leadsToState": 29
+        }
+    ],
+    [
+        {
+            "xpath": "/html[1]/body[1]/main[1]/span[1]",
+            "css": "#settings",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                30,
+                27
+            ],
+            "leadsToState": 14
+        },
+        {
+            "xpath": "/html[1]/body[1]/main[1]/div[8]/div[1]/div[1]/div[2]/div[1]/div[4]/div[1]/div[1]/input[1]",
+            "css": "#feedback-domain",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "change",
+            "info": null,
+            "leadsToState": 29
+        }
+    ],
+    [
+        {
+            "xpath": "/html[1]/body[1]/main[1]/span[1]",
+            "css": "#settings",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                20,
+                1
+            ],
+            "leadsToState": 14
+        },
+        {
+            "xpath": "/html[1]/body[1]/main[1]/div[8]/div[1]/div[1]/div[2]/div[1]/div[3]/div[1]/div[1]/input[1]",
+            "css": "#selectorOperationAnd",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "change",
+            "info": null,
+            "leadsToState": 29
+        }
+    ],
+    [
+        {
+            "xpath": "/html[1]/body[1]/main[1]/span[1]",
+            "css": "#settings",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                9,
+                11
+            ],
+            "leadsToState": 14
+        },
+        {
+            "xpath": "/html[1]/body[1]/main[1]/div[8]/div[1]/div[1]/div[2]/div[1]/div[2]/div[1]/div[2]/input[1]",
+            "css": "#blockOperationOr",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "change",
+            "info": null,
+            "leadsToState": 29
+        }
+    ],
+    [
+        {
+            "xpath": "/html[1]/body[1]/main[1]/span[1]",
+            "css": "#settings",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                8,
+                23
+            ],
+            "leadsToState": 14
+        },
+        {
+            "xpath": "/html[1]/body[1]/main[1]/div[8]/div[1]",
+            "css": "#modal-settings div.modal-dialog",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "mousedown",
+            "info": null,
+            "leadsToState": 29
+        }
+    ],
+    [
+        {
+            "xpath": "/html[1]/body[1]/main[1]/span[1]",
+            "css": "#settings",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                1,
+                6
+            ],
+            "leadsToState": 14
+        },
+        {
+            "xpath": "/html[1]/body[1]/main[1]/div[8]",
+            "css": "#modal-settings",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                721,
+                551
+            ],
+            "leadsToState": 30
+        },
+        {
+            "xpath": "/html[1]/body[1]/main[1]/div[6]/button[1]",
+            "css": "#deselect-all",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": null,
+            "leadsToState": 30
+        }
+    ],
+    [
+        {
+            "xpath": "/html[1]/body[1]/main[1]/span[1]",
+            "css": "#settings",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                7,
+                19
+            ],
+            "leadsToState": 14
+        },
+        {
+            "xpath": "/html[1]/body[1]/main[1]/div[8]",
+            "css": "#modal-settings",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                789,
+                33
+            ],
+            "leadsToState": 30
+        },
+        {
+            "xpath": "/html[1]/body[1]/main[1]/div[4]/div[1]/div[7]/div[1]/span[2]",
+            "css": "#selector-block-Alcalinityofash div.selector-block-title span.undo",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": null,
+            "leadsToState": 30
+        }
+    ],
+    [
+        {
+            "xpath": "/html[1]/body[1]/main[1]/span[1]",
+            "css": "#settings",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                12,
+                25
+            ],
+            "leadsToState": 14
+        },
+        {
+            "xpath": "/html[1]/body[1]/main[1]/div[8]",
+            "css": "#modal-settings",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                642,
+                8
+            ],
+            "leadsToState": 30
+        },
+        {
+            "xpath": "/html[1]/body[1]/main[1]/div[4]/div[1]/div[5]/div[1]/span[2]",
+            "css": "#selector-block-Ash div.selector-block-title span.undo",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": null,
+            "leadsToState": 30
+        }
+    ],
+    [
+        {
+            "xpath": "/html[1]/body[1]/main[1]/span[1]",
+            "css": "#settings",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                13,
+                10
+            ],
+            "leadsToState": 14
+        },
+        {
+            "xpath": "/html[1]/body[1]/main[1]/div[8]",
+            "css": "#modal-settings",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                683,
+                248
+            ],
+            "leadsToState": 30
+        },
+        {
+            "xpath": "/html[1]/body[1]/main[1]/div[4]/div[1]/div[3]/div[1]/span[2]",
+            "css": "#selector-block-Malicacid div.selector-block-title span.undo",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": null,
+            "leadsToState": 30
+        }
+    ],
+    [
+        {
+            "xpath": "/html[1]/body[1]/main[1]/span[1]",
+            "css": "#settings",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                12,
+                6
+            ],
+            "leadsToState": 14
+        },
+        {
+            "xpath": "/html[1]/body[1]/main[1]/div[8]",
+            "css": "#modal-settings",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                375,
+                130
+            ],
+            "leadsToState": 30
+        },
+        {
+            "xpath": "/html[1]/body[1]/main[1]/div[4]/div[1]/div[1]/div[1]/span[2]",
+            "css": "#selector-block-Alcohol div.selector-block-title span.undo",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": null,
+            "leadsToState": 30
+        }
+    ],
+    [
+        {
+            "xpath": "/html[1]/body[1]/main[1]/span[1]",
+            "css": "#settings",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                8,
+                8
+            ],
+            "leadsToState": 14
+        },
+        {
+            "xpath": "/html[1]/body[1]/main[1]/div[8]",
+            "css": "#modal-settings",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                629,
+                340
+            ],
+            "leadsToState": 30
+        },
+        {
+            "xpath": "/html[1]/body[1]/main[1]/div[2]/*[name()='svg'][1]/*[name()='g'][1]/*[name()='circle']",
+            "css": "#v-0",
+            "startingPath": 1,
+            "siblings": 177,
+            "event": "mouseenter",
+            "info": null,
+            "leadsToState": 31
+        },
+        {
+            "xpath": "/html[1]/body[1]/main[1]/div[2]/*[name()='svg'][1]/*[name()='g'][1]/*[name()='circle']",
+            "css": "#v-0",
+            "startingPath": 1,
+            "siblings": 177,
+            "event": "mouseleave",
+            "info": null,
+            "leadsToState": 30
+        }
+    ],
+    [
+        {
+            "xpath": "/html[1]/body[1]/main[1]/span[1]",
+            "css": "#settings",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                18,
+                21
+            ],
+            "leadsToState": 14
+        },
+        {
+            "xpath": "/html[1]/body[1]/main[1]/div[8]",
+            "css": "#modal-settings",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                580,
+                396
+            ],
+            "leadsToState": 30
+        },
+        {
+            "xpath": "/html[1]/body[1]/main[1]/div[4]/div[1]/div[1]/div[2]/div[1]/div[2]/div",
+            "css": "#bargram-interval-Alcohol-0",
+            "startingPath": 1,
+            "siblings": 5,
+            "event": "mouseenter",
+            "info": null,
+            "leadsToState": 32
+        },
+        {
+            "xpath": "/html[1]/body[1]/main[1]/div[4]/div[1]/div[1]/div[2]/div[1]/div[2]/div",
+            "css": "#bargram-interval-Alcohol-0",
+            "startingPath": 1,
+            "siblings": 5,
+            "event": "click",
+            "info": [
+                2,
+                13
+            ],
+            "leadsToState": 32
+        }
+    ],
+    [
+        {
+            "xpath": "/html[1]/body[1]/main[1]/span[1]",
+            "css": "#settings",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                4,
+                29
+            ],
+            "leadsToState": 14
+        },
+        {
+            "xpath": "/html[1]/body[1]/main[1]/div[8]",
+            "css": "#modal-settings",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                282,
+                156
+            ],
+            "leadsToState": 30
+        },
+        {
+            "xpath": "/html[1]/body[1]/main[1]/div[4]/div[1]/div[1]/div[2]/div[1]/div[2]/div",
+            "css": "#bargram-interval-Alcohol-0",
+            "startingPath": 1,
+            "siblings": 5,
+            "event": "mouseenter",
+            "info": null,
+            "leadsToState": 32
+        },
+        {
+            "xpath": "/html[1]/body[1]/main[1]/div[4]/div[1]/div[1]/div[2]/div[1]/div[2]/div",
+            "css": "#bargram-interval-Alcohol-0",
+            "startingPath": 1,
+            "siblings": 5,
+            "event": "mouseleave",
+            "info": null,
+            "leadsToState": 30
+        }
+    ],
+    [
+        {
+            "xpath": "/html[1]/body[1]/main[1]/span[1]",
+            "css": "#settings",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                5,
+                19
+            ],
+            "leadsToState": 14
+        },
+        {
+            "xpath": "/html[1]/body[1]/main[1]/div[8]",
+            "css": "#modal-settings",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                685,
+                349
+            ],
+            "leadsToState": 30
+        },
+        {
+            "xpath": "/html[1]/body[1]/main[1]/div[4]/div[1]/div[1]/div[2]/div[1]/div[4]/div",
+            "css": "#bargram-selector-Alcohol div.values-container div.value.slider",
+            "startingPath": 2,
+            "siblings": 4,
+            "event": "mousedown",
+            "info": null,
+            "leadsToState": 33
+        }
+    ],
+    [
+        {
+            "xpath": "/html[1]/body[1]/main[1]/span[1]",
+            "css": "#settings",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                21,
+                29
+            ],
+            "leadsToState": 14
+        },
+        {
+            "xpath": "/html[1]/body[1]/main[1]/div[8]",
+            "css": "#modal-settings",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                7,
+                290
+            ],
+            "leadsToState": 30
+        },
+        {
+            "xpath": "/html[1]/body[1]/main[1]/div[4]/div[1]/div[1]/div[2]/div[2]/div[2]/div",
+            "css": "#boxplot-interval-Alcohol-0",
+            "startingPath": 3,
+            "siblings": 5,
+            "event": "mouseenter",
+            "info": null,
+            "leadsToState": 34
+        },
+        {
+            "xpath": "/html[1]/body[1]/main[1]/div[4]/div[1]/div[1]/div[2]/div[2]/div[2]/div",
+            "css": "#boxplot-interval-Alcohol-0",
+            "startingPath": 3,
+            "siblings": 5,
+            "event": "click",
+            "info": [
+                6,
+                22
+            ],
+            "leadsToState": 34
+        }
+    ],
+    [
+        {
+            "xpath": "/html[1]/body[1]/main[1]/span[1]",
+            "css": "#settings",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                10,
+                6
+            ],
+            "leadsToState": 14
+        },
+        {
+            "xpath": "/html[1]/body[1]/main[1]/div[8]",
+            "css": "#modal-settings",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                658,
+                395
+            ],
+            "leadsToState": 30
+        },
+        {
+            "xpath": "/html[1]/body[1]/main[1]/div[4]/div[1]/div[1]/div[2]/div[2]/div[2]/div",
+            "css": "#boxplot-interval-Alcohol-0",
+            "startingPath": 3,
+            "siblings": 5,
+            "event": "mouseenter",
+            "info": null,
+            "leadsToState": 34
+        },
+        {
+            "xpath": "/html[1]/body[1]/main[1]/div[4]/div[1]/div[1]/div[2]/div[2]/div[2]/div",
+            "css": "#boxplot-interval-Alcohol-0",
+            "startingPath": 3,
+            "siblings": 5,
+            "event": "mouseleave",
+            "info": null,
+            "leadsToState": 30
+        }
+    ],
+    [
+        {
+            "xpath": "/html[1]/body[1]/main[1]/span[1]",
+            "css": "#settings",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                26,
+                23
+            ],
+            "leadsToState": 14
+        },
+        {
+            "xpath": "/html[1]/body[1]/main[1]/div[8]",
+            "css": "#modal-settings",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                513,
+                187
+            ],
+            "leadsToState": 30
+        },
+        {
+            "xpath": "/html[1]/body[1]/main[1]/div[4]/div[1]/div[3]/div[2]/div[1]/div[2]/div",
+            "css": "#bargram-interval-Malicacid-0",
+            "startingPath": 1,
+            "siblings": 5,
+            "event": "mouseenter",
+            "info": null,
+            "leadsToState": 35
+        },
+        {
+            "xpath": "/html[1]/body[1]/main[1]/div[4]/div[1]/div[3]/div[2]/div[1]/div[2]/div",
+            "css": "#bargram-interval-Malicacid-0",
+            "startingPath": 1,
+            "siblings": 5,
+            "event": "click",
+            "info": [
+                4,
+                23
+            ],
+            "leadsToState": 35
+        }
+    ],
+    [
+        {
+            "xpath": "/html[1]/body[1]/main[1]/span[1]",
+            "css": "#settings",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                19,
+                8
+            ],
+            "leadsToState": 14
+        },
+        {
+            "xpath": "/html[1]/body[1]/main[1]/div[8]",
+            "css": "#modal-settings",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                414,
+                535
+            ],
+            "leadsToState": 30
+        },
+        {
+            "xpath": "/html[1]/body[1]/main[1]/div[4]/div[1]/div[3]/div[2]/div[1]/div[2]/div",
+            "css": "#bargram-interval-Malicacid-0",
+            "startingPath": 1,
+            "siblings": 5,
+            "event": "mouseenter",
+            "info": null,
+            "leadsToState": 35
+        },
+        {
+            "xpath": "/html[1]/body[1]/main[1]/div[4]/div[1]/div[3]/div[2]/div[1]/div[2]/div",
+            "css": "#bargram-interval-Malicacid-0",
+            "startingPath": 1,
+            "siblings": 5,
+            "event": "mouseleave",
+            "info": null,
+            "leadsToState": 30
+        }
+    ],
+    [
+        {
+            "xpath": "/html[1]/body[1]/main[1]/span[1]",
+            "css": "#settings",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                8,
+                17
+            ],
+            "leadsToState": 14
+        },
+        {
+            "xpath": "/html[1]/body[1]/main[1]/div[8]",
+            "css": "#modal-settings",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                779,
+                431
+            ],
+            "leadsToState": 30
+        },
+        {
+            "xpath": "/html[1]/body[1]/main[1]/div[4]/div[1]/div[3]/div[2]/div[1]/div[4]/div",
+            "css": "#bargram-selector-Malicacid div.values-container div.value.slider",
+            "startingPath": 2,
+            "siblings": 4,
+            "event": "mousedown",
+            "info": null,
+            "leadsToState": 36
+        }
+    ],
+    [
+        {
+            "xpath": "/html[1]/body[1]/main[1]/span[1]",
+            "css": "#settings",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                25,
+                29
+            ],
+            "leadsToState": 14
+        },
+        {
+            "xpath": "/html[1]/body[1]/main[1]/div[8]",
+            "css": "#modal-settings",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                547,
+                534
+            ],
+            "leadsToState": 30
+        },
+        {
+            "xpath": "/html[1]/body[1]/main[1]/div[4]/div[1]/div[3]/div[2]/div[2]/div[2]/div",
+            "css": "#boxplot-interval-Malicacid-0",
+            "startingPath": 3,
+            "siblings": 5,
+            "event": "mouseenter",
+            "info": null,
+            "leadsToState": 37
+        },
+        {
+            "xpath": "/html[1]/body[1]/main[1]/div[4]/div[1]/div[3]/div[2]/div[2]/div[2]/div",
+            "css": "#boxplot-interval-Malicacid-0",
+            "startingPath": 3,
+            "siblings": 5,
+            "event": "click",
+            "info": [
+                1,
+                4
+            ],
+            "leadsToState": 37
+        }
+    ],
+    [
+        {
+            "xpath": "/html[1]/body[1]/main[1]/span[1]",
+            "css": "#settings",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                30,
+                24
+            ],
+            "leadsToState": 14
+        },
+        {
+            "xpath": "/html[1]/body[1]/main[1]/div[8]",
+            "css": "#modal-settings",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                98,
+                386
+            ],
+            "leadsToState": 30
+        },
+        {
+            "xpath": "/html[1]/body[1]/main[1]/div[4]/div[1]/div[3]/div[2]/div[2]/div[2]/div",
+            "css": "#boxplot-interval-Malicacid-0",
+            "startingPath": 3,
+            "siblings": 5,
+            "event": "mouseenter",
+            "info": null,
+            "leadsToState": 37
+        },
+        {
+            "xpath": "/html[1]/body[1]/main[1]/div[4]/div[1]/div[3]/div[2]/div[2]/div[2]/div",
+            "css": "#boxplot-interval-Malicacid-0",
+            "startingPath": 3,
+            "siblings": 5,
+            "event": "mouseleave",
+            "info": null,
+            "leadsToState": 30
+        }
+    ],
+    [
+        {
+            "xpath": "/html[1]/body[1]/main[1]/span[1]",
+            "css": "#settings",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                30,
+                9
+            ],
+            "leadsToState": 14
+        },
+        {
+            "xpath": "/html[1]/body[1]/main[1]/div[8]",
+            "css": "#modal-settings",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                176,
+                40
+            ],
+            "leadsToState": 30
+        },
+        {
+            "xpath": "/html[1]/body[1]/main[1]/div[4]/div[1]/div[5]/div[2]/div[1]/div[2]/div",
+            "css": "#bargram-interval-Ash-0",
+            "startingPath": 1,
+            "siblings": 5,
+            "event": "mouseenter",
+            "info": null,
+            "leadsToState": 38
+        },
+        {
+            "xpath": "/html[1]/body[1]/main[1]/div[4]/div[1]/div[5]/div[2]/div[1]/div[2]/div",
+            "css": "#bargram-interval-Ash-0",
+            "startingPath": 1,
+            "siblings": 5,
+            "event": "click",
+            "info": [
+                7,
+                8
+            ],
+            "leadsToState": 38
+        }
+    ],
+    [
+        {
+            "xpath": "/html[1]/body[1]/main[1]/span[1]",
+            "css": "#settings",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                12,
+                20
+            ],
+            "leadsToState": 14
+        },
+        {
+            "xpath": "/html[1]/body[1]/main[1]/div[8]",
+            "css": "#modal-settings",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                657,
+                523
+            ],
+            "leadsToState": 30
+        },
+        {
+            "xpath": "/html[1]/body[1]/main[1]/div[4]/div[1]/div[5]/div[2]/div[1]/div[2]/div",
+            "css": "#bargram-interval-Ash-0",
+            "startingPath": 1,
+            "siblings": 5,
+            "event": "mouseenter",
+            "info": null,
+            "leadsToState": 38
+        },
+        {
+            "xpath": "/html[1]/body[1]/main[1]/div[4]/div[1]/div[5]/div[2]/div[1]/div[2]/div",
+            "css": "#bargram-interval-Ash-0",
+            "startingPath": 1,
+            "siblings": 5,
+            "event": "mouseleave",
+            "info": null,
+            "leadsToState": 30
+        }
+    ],
+    [
+        {
+            "xpath": "/html[1]/body[1]/main[1]/span[1]",
+            "css": "#settings",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                28,
+                5
+            ],
+            "leadsToState": 14
+        },
+        {
+            "xpath": "/html[1]/body[1]/main[1]/div[8]",
+            "css": "#modal-settings",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                779,
+                226
+            ],
+            "leadsToState": 30
+        },
+        {
+            "xpath": "/html[1]/body[1]/main[1]/div[4]/div[1]/div[5]/div[2]/div[1]/div[4]/div",
+            "css": "#bargram-selector-Ash div.values-container div.value.slider",
+            "startingPath": 2,
+            "siblings": 4,
+            "event": "mousedown",
+            "info": null,
+            "leadsToState": 39
+        }
+    ],
+    [
+        {
+            "xpath": "/html[1]/body[1]/main[1]/span[1]",
+            "css": "#settings",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                7,
+                6
+            ],
+            "leadsToState": 14
+        },
+        {
+            "xpath": "/html[1]/body[1]/main[1]/div[8]",
+            "css": "#modal-settings",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                55,
+                56
+            ],
+            "leadsToState": 30
+        },
+        {
+            "xpath": "/html[1]/body[1]/main[1]/div[4]/div[1]/div[5]/div[2]/div[2]/div[2]/div",
+            "css": "#boxplot-interval-Ash-0",
+            "startingPath": 3,
+            "siblings": 5,
+            "event": "mouseenter",
+            "info": null,
+            "leadsToState": 40
+        },
+        {
+            "xpath": "/html[1]/body[1]/main[1]/div[4]/div[1]/div[5]/div[2]/div[2]/div[2]/div",
+            "css": "#boxplot-interval-Ash-0",
+            "startingPath": 3,
+            "siblings": 5,
+            "event": "click",
+            "info": [
+                4,
+                7
+            ],
+            "leadsToState": 40
+        }
+    ],
+    [
+        {
+            "xpath": "/html[1]/body[1]/main[1]/span[1]",
+            "css": "#settings",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                18,
+                15
+            ],
+            "leadsToState": 14
+        },
+        {
+            "xpath": "/html[1]/body[1]/main[1]/div[8]",
+            "css": "#modal-settings",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                208,
+                163
+            ],
+            "leadsToState": 30
+        },
+        {
+            "xpath": "/html[1]/body[1]/main[1]/div[4]/div[1]/div[5]/div[2]/div[2]/div[2]/div",
+            "css": "#boxplot-interval-Ash-0",
+            "startingPath": 3,
+            "siblings": 5,
+            "event": "mouseenter",
+            "info": null,
+            "leadsToState": 40
+        },
+        {
+            "xpath": "/html[1]/body[1]/main[1]/div[4]/div[1]/div[5]/div[2]/div[2]/div[2]/div",
+            "css": "#boxplot-interval-Ash-0",
+            "startingPath": 3,
+            "siblings": 5,
+            "event": "mouseleave",
+            "info": null,
+            "leadsToState": 30
+        }
+    ],
+    [
+        {
+            "xpath": "/html[1]/body[1]/main[1]/span[1]",
+            "css": "#settings",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                14,
+                21
+            ],
+            "leadsToState": 14
+        },
+        {
+            "xpath": "/html[1]/body[1]/main[1]/div[8]",
+            "css": "#modal-settings",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                104,
+                211
+            ],
+            "leadsToState": 30
+        },
+        {
+            "xpath": "/html[1]/body[1]/main[1]/div[4]/div[1]/div[7]/div[2]/div[1]/div[2]/div",
+            "css": "#bargram-interval-Alcalinityofash-0",
+            "startingPath": 1,
+            "siblings": 5,
+            "event": "mouseenter",
+            "info": null,
+            "leadsToState": 41
+        },
+        {
+            "xpath": "/html[1]/body[1]/main[1]/div[4]/div[1]/div[7]/div[2]/div[1]/div[2]/div",
+            "css": "#bargram-interval-Alcalinityofash-0",
+            "startingPath": 1,
+            "siblings": 5,
+            "event": "click",
+            "info": [
+                5,
+                15
+            ],
+            "leadsToState": 41
+        }
+    ],
+    [
+        {
+            "xpath": "/html[1]/body[1]/main[1]/span[1]",
+            "css": "#settings",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                8,
+                26
+            ],
+            "leadsToState": 14
+        },
+        {
+            "xpath": "/html[1]/body[1]/main[1]/div[8]",
+            "css": "#modal-settings",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                426,
+                128
+            ],
+            "leadsToState": 30
+        },
+        {
+            "xpath": "/html[1]/body[1]/main[1]/div[4]/div[1]/div[7]/div[2]/div[1]/div[2]/div",
+            "css": "#bargram-interval-Alcalinityofash-0",
+            "startingPath": 1,
+            "siblings": 5,
+            "event": "mouseenter",
+            "info": null,
+            "leadsToState": 41
+        },
+        {
+            "xpath": "/html[1]/body[1]/main[1]/div[4]/div[1]/div[7]/div[2]/div[1]/div[2]/div",
+            "css": "#bargram-interval-Alcalinityofash-0",
+            "startingPath": 1,
+            "siblings": 5,
+            "event": "mouseleave",
+            "info": null,
+            "leadsToState": 30
+        }
+    ],
+    [
+        {
+            "xpath": "/html[1]/body[1]/main[1]/span[1]",
+            "css": "#settings",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                5,
+                10
+            ],
+            "leadsToState": 14
+        },
+        {
+            "xpath": "/html[1]/body[1]/main[1]/div[8]",
+            "css": "#modal-settings",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                424,
+                327
+            ],
+            "leadsToState": 30
+        },
+        {
+            "xpath": "/html[1]/body[1]/main[1]/div[4]/div[1]/div[7]/div[2]/div[1]/div[4]/div",
+            "css": "#bargram-selector-Alcalinityofash div.values-container div.value.slider",
+            "startingPath": 2,
+            "siblings": 4,
+            "event": "mousedown",
+            "info": null,
+            "leadsToState": 42
+        }
+    ],
+    [
+        {
+            "xpath": "/html[1]/body[1]/main[1]/span[1]",
+            "css": "#settings",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                15,
+                19
+            ],
+            "leadsToState": 14
+        },
+        {
+            "xpath": "/html[1]/body[1]/main[1]/div[8]",
+            "css": "#modal-settings",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                202,
+                343
+            ],
+            "leadsToState": 30
+        },
+        {
+            "xpath": "/html[1]/body[1]/main[1]/div[4]/div[1]/div[7]/div[2]/div[2]/div[2]/div",
+            "css": "#boxplot-interval-Alcalinityofash-0",
+            "startingPath": 3,
+            "siblings": 5,
+            "event": "mouseenter",
+            "info": null,
+            "leadsToState": 43
+        },
+        {
+            "xpath": "/html[1]/body[1]/main[1]/div[4]/div[1]/div[7]/div[2]/div[2]/div[2]/div",
+            "css": "#boxplot-interval-Alcalinityofash-0",
+            "startingPath": 3,
+            "siblings": 5,
+            "event": "click",
+            "info": [
+                3,
+                13
+            ],
+            "leadsToState": 43
+        }
+    ],
+    [
+        {
+            "xpath": "/html[1]/body[1]/main[1]/span[1]",
+            "css": "#settings",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                24,
+                30
+            ],
+            "leadsToState": 14
+        },
+        {
+            "xpath": "/html[1]/body[1]/main[1]/div[8]",
+            "css": "#modal-settings",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                276,
+                449
+            ],
+            "leadsToState": 30
+        },
+        {
+            "xpath": "/html[1]/body[1]/main[1]/div[4]/div[1]/div[7]/div[2]/div[2]/div[2]/div",
+            "css": "#boxplot-interval-Alcalinityofash-0",
+            "startingPath": 3,
+            "siblings": 5,
+            "event": "mouseenter",
+            "info": null,
+            "leadsToState": 43
+        },
+        {
+            "xpath": "/html[1]/body[1]/main[1]/div[4]/div[1]/div[7]/div[2]/div[2]/div[2]/div",
+            "css": "#boxplot-interval-Alcalinityofash-0",
+            "startingPath": 3,
+            "siblings": 5,
+            "event": "mouseleave",
+            "info": null,
+            "leadsToState": 30
+        }
+    ],
+    [
+        {
+            "xpath": "/html[1]/body[1]/main[1]/span[1]",
+            "css": "#settings",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                5,
+                18
+            ],
+            "leadsToState": 14
+        },
+        {
+            "xpath": "/html[1]/body[1]/main[1]/div[8]",
+            "css": "#modal-settings",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                123,
+                505
+            ],
+            "leadsToState": 30
+        },
+        {
+            "xpath": "/html[1]/body[1]/main[1]/span[1]",
+            "css": "#settings",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                14,
+                27
+            ],
+            "leadsToState": 29
+        }
+    ],
+    [
+        {
+            "xpath": "/html[1]/body[1]/main[1]/span[1]",
+            "css": "#settings",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                21,
+                6
+            ],
+            "leadsToState": 14
+        },
+        {
+            "xpath": "/html[1]/body[1]/main[1]/div[8]/div[1]/div[1]/div[1]/button[1]",
+            "css": "#modal-settings div.modal-dialog div.modal-content div.modal-header button.close",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": null,
+            "leadsToState": 30
+        }
+    ],
+    [
+        {
+            "xpath": "/html[1]/body[1]/main[1]/span[1]",
+            "css": "#settings",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                29,
+                19
+            ],
+            "leadsToState": 14
+        }
+    ],
+    [
+        {
+            "xpath": "/html[1]/body[1]/main[1]/span[1]",
+            "css": "#settings",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                1,
+                3
+            ],
+            "leadsToState": 14
+        },
+        {
+            "xpath": "/html[1]/body[1]/main[1]/div[8]/div[1]/div[1]/div[3]/button[1]",
+            "css": "#save-button",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": null,
+            "leadsToState": 30
+        }
+    ],
+    [
+        {
+            "xpath": "/html[1]/body[1]/main[1]/span[1]",
+            "css": "#settings",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": [
+                24,
+                7
+            ],
+            "leadsToState": 14
+        },
+        {
+            "xpath": "/html[1]/body[1]/main[1]/div[8]/div[1]/div[1]/div[3]/button[1]",
+            "css": "#save-button",
+            "startingPath": -1,
+            "siblings": 0,
+            "event": "click",
+            "info": null,
+            "leadsToState": 15
+        }
+    ]
+]
